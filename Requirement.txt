@@ -7,3 +7,5 @@
 1.Stdio.h
 2.Stdlib.h
 3.String.h
+
+#That's it these are all the basic requirements for this project:)
