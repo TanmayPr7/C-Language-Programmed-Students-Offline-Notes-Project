@@ -19,4 +19,12 @@ that subject.As you correctly entre all the details required program will
 provide you the respective study notes of your need.After you gets your
 required notes, program will ask you that you can either terminate the program
 or can access program's settings.If you choose first option then program will be
-terminated and your .exe file will be closed & 
+terminated and your .exe file will be closed & if you choose second option program
+will ask you three options, weather you want to view your profile, logout of your 
+account or contact the help desk of the respective program.If you choose the first
+option, then program will display your profile detail, if choose the second option,
+then program will automatically logout of your account and again will ask you to
+sign up or login or if you choose third option, then the programm will redirect you
+to the program's help/chat bot(JARVIS), from whom you can ask any of your doubts or 
+querries regarding program's functioning.At any point of program's runtime you want 
+to exit or terminate the program you can easily do that by just going to settings.
