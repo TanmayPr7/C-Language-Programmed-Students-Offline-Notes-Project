@@ -28,3 +28,5 @@ sign up or login or if you choose third option, then the programm will redirect 
 to the program's help/chat bot(JARVIS), from whom you can ask any of your doubts or 
 querries regarding program's functioning.At any point of program's runtime you want 
 to exit or terminate the program you can easily do that by just going to settings.
+
+#  This is the basic working of C Language Programmed Students Offline Notes Project:)
