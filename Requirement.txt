@@ -1,0 +1,4 @@
+# Requirements
+1.Programming IDE(VS Code)
+2.GCC Compiler for compling C language programmes
+3.Device for programming(PC or Laptop)
