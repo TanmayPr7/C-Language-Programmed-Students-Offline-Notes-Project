@@ -2,3 +2,8 @@
 1.Programming IDE(VS Code)
 2.GCC Compiler for compling C language programmes
 3.Device for programming(PC or Laptop)
+
+# Header Files Required
+1.Stdio.h
+2.Stdlib.h
+3.String.h
