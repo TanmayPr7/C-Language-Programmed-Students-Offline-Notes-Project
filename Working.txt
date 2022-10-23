@@ -11,3 +11,12 @@ otherwise they can visit settings option for further informations.
 If user wants to get notes of some other chapters or subject in the 
 same run they can go to settings and can get other study notes of their
 need or choice easily.
+
+# Basically the program will start with asking you about your respective
+class, after that it will ask you about the subject of which you want
+study notes of & then program will ask you about the chapter number of
+that subject.As you correctly entre all the details required program will
+provide you the respective study notes of your need.After you gets your
+required notes, program will ask you that you can either terminate the program
+or can access program's settings.If you choose first option then program will be
+terminated and your .exe file will be closed & 
