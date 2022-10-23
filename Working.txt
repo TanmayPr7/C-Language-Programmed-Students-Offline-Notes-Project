@@ -1,0 +1,13 @@
+# This is basic level c language programmed project for students
+offline study notes facility, user can entre their respective class
+then respective subject of which they want study notes of & then 
+respective chapter number of that subject, then program will 
+automatically provide some of the best avaliable notes related to 
+that topic respectively, user can then easily select the link and
+open it any browser to access the notes and solutions. After that
+program asks user to visit settings option or terminate the program,
+if user wants to exit the program they can select terminate option,
+otherwise they can visit settings option for further informations.
+If user wants to get notes of some other chapters or subject in the 
+same run they can go to settings and can get other study notes of their
+need or choice easily.
