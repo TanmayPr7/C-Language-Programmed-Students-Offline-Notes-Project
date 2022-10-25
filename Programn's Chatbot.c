@@ -75,3 +75,17 @@ void cb(){
                 quar();
             }
         }
+        else if(quarry==3){
+            printf("Here I have our Coustmer Care Number +91 8797376868 or +91 9708777070 You can Contact Us here:)\n");
+            printf("May I help you with anything else Sir:)\n");
+            scanf("%s",c);
+            if(strcmp(c,b)==0){
+                quar();
+            }
+        }
+        else if(quarry==4){
+            printf("Thank you Sir for Using our app please Share your Feedback with us have a nice day:)\n");
+            over(&c[1]);
+        }
+    }
+}
