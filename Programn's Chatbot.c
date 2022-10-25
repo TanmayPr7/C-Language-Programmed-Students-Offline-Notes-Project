@@ -32,3 +32,46 @@ void cb(){
     printf("                                     How can I help you please enter the quarry :)\n");
     printf("Hi:)\n");
     quar();
+    while(strcmp(c,b)==0){
+        scanf("%d",&quarry);
+        if(quarry==1){
+            printf("What Problems you are Facing while using this app:)\n");
+            prob();
+            scanf("%d",&pro);
+            if(pro==1){
+                printf("                            You Do One thing\n");
+                printf("             Close This App and Open it again To avoid this Problem:)\n");
+                printf("If After reopening the App it not works wait for sometime maybe our Server is Down:(\n");
+                printf("         Sorry for Problems You Faced and Time you Lose while Using App:)\n");
+            }
+            else if(pro==2){
+                printf("                           You Do One thing\n");
+                printf("Select or Copy the link and right click the Mouse and open the link in any Browser:)\n");
+                printf("         Otherwise Close the App and Open it again to fix this Problem:)\n");
+                printf("If After reopening the App it not works wait for sometime maybe our Server is Down:(\n");
+                printf("      Sorry for Problems You Faced and Time you Lose while Using the App:)\n");
+            }
+            printf("\n");
+            printf("May I help you with anything else Sir:)\n");
+            scanf("%s",c);
+            if(strcmp(c,b)==0){
+                quar();
+            }
+        }
+        else if(quarry==2){
+            printf("Enter you Rating for our service please:)\n");
+            printf("How many stars do you want to give us on the scale of 1 to 5:)\n");
+            printf("                   * * * * *\n");
+            scanf("%s",&a[0]);
+            if(strlen(a)<6){
+                 printf("Your Rating is %s Thank You for giving us your Rating and Time Sir:)\n",a);
+            }
+            else{
+                printf("Your Rating is Invalid please give us Valid Rating Sir:)\n");
+            }
+            printf("May I help you with anything else Sir:)\n");
+            scanf("%s",c);
+            if(strcmp(c,b)==0){
+                quar();
+            }
+        }
