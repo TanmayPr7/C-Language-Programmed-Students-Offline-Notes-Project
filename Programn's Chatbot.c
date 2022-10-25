@@ -20,3 +20,15 @@ char over(char c[]){
     c[1]=e;
 }
 
+void cb(){
+    int quarry;
+    int pro;
+    char c[]="yes";
+    char b[]="yes";
+    char a[6];
+    printf("***********************************************************************************************************************\n");
+    printf("                                         Welcome to our App chat facility :)\n");
+    printf("                                          I am Jarvis the AI chat bot :)\n");
+    printf("                                     How can I help you please enter the quarry :)\n");
+    printf("Hi:)\n");
+    quar();
