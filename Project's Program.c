@@ -95,3 +95,13 @@ void cb(){
         }
     }
 }
+
+int content(){
+    printf("                    Best Platform For Study Notes of Science, Maths and Social Science For Class 4 to 10:)\n\n");
+    int class;
+    int s;
+    int sub;
+    int chap;
+    int ssub;
+    printf("Enter The Class You Want The Notes And Solution of:)");
+    scanf("%d",&class);
