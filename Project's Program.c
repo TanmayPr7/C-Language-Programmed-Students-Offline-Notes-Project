@@ -229,3 +229,187 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 14 Chapters in Class 5 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 1st Chapter for Class 5:)\n\n");
+                printf("Chapter 1st EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=12E59JE4AVwmxXmwhiMG717OhDSrh_d7G\n");
+                printf("Solution for chapter 1st EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-1-super-senses/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 2nd Chapter for Class 5:)\n\n");
+                printf("Chapter 2nd EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1F6WLuuo7MdN6kFO13QeZ3E_2C0qKPCjk\n");
+                printf("Solution for chapter 2nd EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-2-a-snake-charmers-story/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 3rd Chapter for Class 5:)\n\n");
+                printf("Chapter 3rd EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1bWwO5x8hg5qWO-XIhqibux2YWIMYofZi\n");
+                printf("Solution for chapter 3rd EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-3-from-tasting-to-digesting/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 4th Chapter for Class 5:)\n\n");
+                printf("Chapter 4th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1qbgQd3rvv58DS14fbaNNrouvcL0K7fDk\n");
+                printf("Solution for chapter 4th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-4-mangoes-round-the-year/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 5th Chapter for Class 5:)\n\n");
+                printf("Chapter 5th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1qbgQd3rvv58DS14fbaNNrouvcL0K7fDk\n");
+                printf("Solution for chapter 5th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-5-seeds-and-seeds/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 6th Chapter for Class 5:)\n\n");
+                printf("Chapter 6th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1v4g5RsgqL2SI95gUfDPkBi5YMD9ABTn2\n");
+                printf("Solution for chapter 6th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-6-every-drop-counts/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 7th Chapter for Class 5:)\n\n");
+                printf("Chapter 7th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1rLowJMJMrHTJmmmoaValgShSqYvYhSKo\n");
+                printf("Solution for chapter 7th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-7-experiments-with-water/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 8th Chapter for Class 5:)\n\n");
+                printf("Chapter 8th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=15zu3wqKnn-sUc5pqO70HmUTxEfjES4KV\n");
+                printf("Solution for chapter 8th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-8-a-treat-for-mosquitoes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 9th Chapter for Class 5:)\n\n");
+                printf("Chapter 9th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1PIJQ87lXk9ZrvyLIMMd0v2pZbl_BnedF\n");
+                printf("Solution for chapter 9th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-9-up-you-go/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 10th Chapter for Class 5:)\n\n");
+                printf("Chapter 10th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1I2ZvrNkadmN9SYz8QFCAMB3WgFmgYFns\n");
+                printf("Solution for chapter 10th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-10-walls-tell-stories/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 11th Chapter for Class 5:)\n\n");
+                printf("Chapter 11th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1kfphNDO5se_IICKbo_kaA2Yehu5t0ds6\n");
+                printf("Solution for chapter 11th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-11-sunita-in-space/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 12th Chapter for Class 5:)\n\n");
+                printf("Chapter 12th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=160sQmVkNoktzanyfV5ktwYIWMsQ4-3Ub\n");
+                printf("Solution for chapter 12th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-12-what-if-it-finishes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 13th Chapter for Class 5:)\n\n");
+                printf("Chapter 13th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=17vepdW31LO8KOSlCU13yxQNN62wMquKh\n");
+                printf("Solution for chapter 13th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-13-a-shelter-so-high/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 14th Chapter for Class 5:)\n\n");
+                printf("Chapter 14th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=179dIn3BKObbPF-In6skahwYAqCGhRKWk\n");
+                printf("Solution for chapter 14th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-14-when-the-earth-shook/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 15th Chapter for Class 5:)\n\n");
+                printf("Chapter 15th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=15o3csQDzdaSj6tg9CZF4qZxbPPYQRd9O\n");
+                printf("Solution for chapter 15th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-15-blow-hot-blow-cold/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 16th Chapter for Class 5:)\n\n");
+                printf("Chapter 16th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1gpYIt1zE7-sKQmy3roUuRVcnHpFDQOsC\n");
+                printf("Solution for chapter 16th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-16-who-will-do-this-work/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==17){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 17th Chapter for Class 5:)\n\n");
+                printf("Chapter 17th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=15ReVkG0cu67jFRB3NQeVujM5AoF6LSJT\n");
+                printf("Solution for chapter 17th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-17-across-the-wall/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==18){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 18th Chapter for Class 5:)\n\n");
+                printf("Chapter 18th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1tusp3LyU8hHzZxNlSINqz9FXrxOWjcrM\n");
+                printf("Solution for chapter 18th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-18-no-place-for-us/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==19){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 19th Chapter for Class 5:)\n\n");
+                printf("Chapter 19th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1KqimxDIJFQ07l96kpF0GSVAK3Zr48-9t\n");
+                printf("Solution for chapter 19th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-19-a-seed-tells-a-farmers-story/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==20){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 20th Chapter for Class 5:)\n\n");
+                printf("Chapter 20th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1kOgZvwTTV8Qwky8lGLQ9OMREZ63vld8D\n");
+                printf("Solution for chapter 20th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-20-whose-forests/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==21){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 21th Chapter for Class 5:)\n\n");
+                printf("Chapter 21th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1hL_ds5ozQ2CuaFHIqixx6-wXFIbQ8cEb\n");
+                printf("Solution for chapter 21th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-21-like-father-like-daughter/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==22){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 22th Chapter for Class 5:)\n\n");
+                printf("Chapter 22th EVS PDF for class 5\n");
+                printf("https://drive.google.com/open?id=1yD1F9mUKwE1ZsGUQjZZsHDaDaG44Zj-3\n");
+                printf("Solution for chapter 22th EVS Class 5\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-5-evs-chapter-22-on-the-move-again/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 22 Chapters in Class 5 EVS:)\n");
+            }
+        }
+    }
