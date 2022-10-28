@@ -1218,3 +1218,256 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 18 Chapters in Class 7 Science:)\n");
             }
         }
+        if(sub==3){
+            printf("Press 1 To Get the Notes And Solutions of History for Class 7:)\n");
+            printf("Press 2 To Get the Notes And Solutions of Civics for Class 7:)\n");
+            printf("Press 3 To Get the Notes And Solutions of Geography for Class 7:)->");
+            scanf("%d",&ssub);
+            printf("\n");
+            if(ssub==1){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 1st Chapter for Class 7:)\n\n");
+                    printf("Chapter 1st History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=110KtGUiYZ3YANzHQ6YfRHqFes0g5AowS\n");
+                    printf("Solution for chapter 1st History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-1-tracing-changes-through-a-thousand-years/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 2nd Chapter for Class 7:)\n\n");
+                    printf("Chapter 2nd History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1tsiuI2YvkxJyuiCw0fr4-dcLc-hRwJ-u\n");
+                    printf("Solution for chapter 2nd History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-2-new-kings-and-kingdoms/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 3rd Chapter for Class 7:)\n\n");
+                    printf("Chapter 3rd History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1Y-8BcWY3k5hmJf-cnHjyOxYLCqgcU-jL\n");
+                    printf("Solution for chapter 3rd History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-3-the-delhi-sultans/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 4th Chapter for Class 7:)\n\n");
+                    printf("Chapter 4th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1jdYuCzWgjO_72qbdrMuw92abUn7R1fmp\n");
+                    printf("Solution for chapter 4th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-4-the-mughal-empire/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 5th Chapter for Class 7:)\n\n");
+                    printf("Chapter 5th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1TygACyXmSdRirqNMOQnf-PnL37R92gHZ\n");
+                    printf("Solution for chapter 5th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-5-rulers-and-buildings/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 6th Chapter for Class 7:)\n\n");
+                    printf("Chapter 6th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=15JtLiIkjlHfa_xssaLLnDvlKrfxImvjB\n");
+                    printf("Solution for chapter 6th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-6-towns-traders-and-craftspersons/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 7th Chapter for Class 7:)\n\n");
+                    printf("Chapter 7th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1PtgULWjq4f3RipvDlBg0TIqGT4ZdLfCL\n");
+                    printf("Solution for chapter 7th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-7-tribes-nomads-and-settled-communities/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 8th Chapter for Class 7:)\n\n");
+                    printf("Chapter 8th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1I1iE2H_CQBj96L6aIMcR3Lw2NdSXEeTK\n");
+                    printf("Solution for chapter 8th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-8-devotional-paths-to-the-divine/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 9th Chapter for Class 7:)\n\n");
+                    printf("Chapter 9th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1MbAkkMsugDw6nu8fzTR_FqMlB2lDCpxT\n");
+                    printf("Solution for chapter 9th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-9-the-making-of-regional-cultures/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==10){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 10th Chapter for Class 7:)\n\n");
+                    printf("Chapter 10th History PDF for class 7\n");
+                    printf("https://drive.google.com/open?id=1etaZv76yHcgqhwpz_--nVxNtYr11HSG2\n");
+                    printf("Solution for chapter 10th History Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-history-chapter-10-eighteenth-century-political-formations/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 10 Chapters in Class 7 Historyt:)\n");
+                }
+            }
+            if(ssub==2){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 1st Chapter for Class 7:)\n\n");
+                    printf("Chapter 1st Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1oeMcBTI3xgsmAhVMgDIB-HSMEviDPbGE/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-1-on-equality/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 2nd Chapter for Class 7:)\n\n");
+                    printf("Chapter 2nd Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1fZtgY1Fwc60Nc-vSTWXYjK9OXDbt24MM/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-2-role-of-the-government-in-health/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 3rd Chapter for Class 7:)\n\n");
+                    printf("Chapter 3rd Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/11uU7OM4Q3xAj5USm3qYHa8zBcV2DDHSN/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-3-how-the-state-government-works/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 4th Chapter for Class 7:)\n\n");
+                    printf("Chapter 4th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1JlkVC0D1YS1dFnrxhBl8OTQuLEdv9aWk/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-4-growing-up-as-boys-and-girls/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 5th Chapter for Class 7:)\n\n");
+                    printf("Chapter 5th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1EPQvVZCdl9qSWYgtWPpm6kJKq_OjEyMy/view?usp=sharing\n");
+                    printf("Solution for chapter 5th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-5-women-change-the-world/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 6th Chapter for Class 7:)\n\n");
+                    printf("Chapter 6th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1bMtEV8MZq4PvT1GwaUrlYeK4Ss1AzRli/view?usp=sharing\n");
+                    printf("Solution for chapter 6th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-6-understanding-media/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 7th Chapter for Class 7:)\n\n");
+                    printf("Chapter 7th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1Vva7QAYG0xCo-NrN8vOlh9ddGPG1R2j-/view?usp=sharing\n");
+                    printf("Solution for chapter 7th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-7-markets-around-us/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 8th Chapter for Class 7:)\n\n");
+                    printf("Chapter 8th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1AdlcjznN5CcHSjeiEAx-X0nhm9T07f43/view?usp=sharing\n");
+                    printf("Solution for chapter 8th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-8-a-shirt-in-the-market/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 9th Chapter for Class 7:)\n\n");
+                    printf("Chapter 9th Civics PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1iWoto9GtdjxNp3PPpO2Y9_AabW3N1teo/view?usp=sharing\n");
+                    printf("Solution for chapter 9th Civics Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-9-struggle-for-equality/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 9 Chapters in Class 7 Civics:)\n");
+                }
+            }
+            if(ssub==3){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 1st Chapter for Class 7:)\n\n");
+                    printf("Chapter 1st Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1oPLXFEPW6qiwCHWXgJPIVtpmnAOU2qGX/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-1-environment/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 2nd Chapter for Class 7:)\n\n");
+                    printf("Chapter 2nd Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/13o2jVOWsH7K6MRzlRKYPdHn_avBa1454/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-2-inside-our-earth/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 3rd Chapter for Class 7:)\n\n");
+                    printf("Chapter 3rd Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1gZpDzwpVaUqaiESZO_lDG2bN5xrtzhpE/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-3-our-changing-earth/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 4th Chapter for Class 7:)\n\n");
+                    printf("Chapter 4th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1EFai8o5Q3SgITns95Q_JZkAVpG0MpFse/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-4-air/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 5th Chapter for Class 7:)\n\n");
+                    printf("Chapter 5th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1VTox6gWG9PrLkk5tE4corAJT3K_yDNUI/view?usp=sharing\n");
+                    printf("Solution for chapter 5th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-5-water/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 6th Chapter for Class 7:)\n\n");
+                    printf("Chapter 6th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1GlAkLwg9beYGl87FHNFfuCvW8NbeHMOb/view?usp=sharing\n");
+                    printf("Solution for chapter 6th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-6-natural-vegetation-and-wildlife/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 7th Chapter for Class 7:)\n\n");
+                    printf("Chapter 7th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1lrMPG0pfWp37L8KHv3AiwvmK3VEY9PcZ/view?usp=sharing\n");
+                    printf("Solution for chapter 7th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-7-human-environment-settlement-transport-and-communication/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 8th Chapter for Class 7:)\n\n");
+                    printf("Chapter 8th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1EibsH13msSqD2cjXqHC0ecC4utC4w0CM/view?usp=sharing\n");
+                    printf("Solution for chapter 8th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-8-human-interactions-the-tropical-and-the-sub-tropical-regions/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 9th Chapter for Class 7:)\n\n");
+                    printf("Chapter 9th Geography PDF for class 7\n");
+                    printf("https://drive.google.com/file/d/1VkODY_zEKfdU_aReMzoPD7pEf_pVnohH/view?usp=sharing\n");
+                    printf("Solution for chapter 9th Geography Class 7\n");
+                    printf("https://byjus.com/ncert-solutions-class-7-social-science-geography-chapter-9-life-in-the-deserts/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 9 Chapter in Class 7 Geography:)\n");
+                }
+            }
+        }
+    }
