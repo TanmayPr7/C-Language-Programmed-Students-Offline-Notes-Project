@@ -782,3 +782,82 @@ int content(){
                     printf("Please enter the correct Chapter number there are only 12 Chapters in Class 6 History:)\n");
                 }
             }
+            if(ssub==2){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 1st Chapter for Class 6:)\n\n");
+                    printf("Chapter 1st Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1RFVtqlIIUQGZZ4lTfBqQ1ftmO5ZZl_IU\n");
+                    printf("Solution for chapter 1st Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-1-understanding-diversity/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 2nd Chapter for Class 6:)\n\n");
+                    printf("Chapter 2nd Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1qUivUb6CbUVem0t0shFAIRmyNKgdMV0q\n");
+                    printf("Solution for chapter 2nd Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-2-diversity-and-discrimination/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 3rd Chapter for Class 6:)\n\n");
+                    printf("Chapter 3rd Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1nbu4abpdoVrFazAvDsGYTepPBmAyXGVy\n");
+                    printf("Solution for chapter 3rd Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-3-what-is-government/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 4th Chapter for Class 6:)\n\n");
+                    printf("Chapter 4th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1R8elt86xoNKPj9YqeQnoIOETtwg25Y0a\n");
+                    printf("Solution for chapter 4th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-4-key-elements-of-a-democratic-government/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 5th Chapter for Class 6:)\n\n");
+                    printf("Chapter 5th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1lS6TQtyMUXXHrzavtwH9SkU5nSmKz5W5\n");
+                    printf("Solution for chapter 5th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-5-panchayati-raj/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 6th Chapter for Class 6:)\n\n");
+                    printf("Chapter 6th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1lG-9khl329tBwc69D681h_MDD3ma0BPE\n");
+                    printf("Solution for chapter 6th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-6-rural-administration/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 7th Chapter for Class 6:)\n\n");
+                    printf("Chapter 7th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1Pcj8NQddBBJJe235yNzK6pAiXprWek3W\n");
+                    printf("Solution for chapter 7th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-7-urban-administration/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 8th Chapter for Class 6:)\n\n");
+                    printf("Chapter 8th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1H5wB-aSTm-vxmvse1dAMWl4ZIx1xtZzf\n");
+                    printf("Solution for chapter 8th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-8-rural-livelihoods/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 9th Chapter for Class 6:)\n\n");
+                    printf("Chapter 9th Civics PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1TFPjb-6TIT_4xigSMe-lRuzMHnIEvo8u\n");
+                    printf("Solution for chapter 9th Civics Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-civics-chapter-9-urban-livelihoods/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are Only 9 Chapters in Class 6 Civics:)\n");
+                }
+            }
