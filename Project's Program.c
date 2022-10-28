@@ -1763,3 +1763,256 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 18 Chapter in Class 8 Science:)\n");
             }
         }
+        if(sub==3){
+            printf("Press 1 To Get the Notes And Solutions of History for Class 8:)\n");
+            printf("Press 2 To Get the Notes And Solutions of Civics for Class 8:)\n");
+            printf("Press 3 To Get the Notes And Solutions of Geography for Class 8:)->");
+            scanf("%d",&ssub);
+            printf("\n");
+            if(ssub==1){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 1st Chapter for Class 8:)\n\n");
+                    printf("Chapter 1st History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=13fpvZYQLA6Y7Xajc2Z3Kx9HX6grzGsfk\n");
+                    printf("Solution for chapter 1st History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-1-how-when-and-where/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 2nd Chapter for Class 8:)\n\n");
+                    printf("Chapter 2nd History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1906Kh7BzjvCR7ZzxkNN9HTapwQ7b4Frz\n");
+                    printf("Solution for chapter 2nd History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-2-from-trade-to-territory-the-company-establishes-power/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 3rd Chapter for Class 8:)\n\n");
+                    printf("Chapter 3rd History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1Q35GUm4Buhi53Ps_c6YRB-AjD6JHhOnJ\n");
+                    printf("Solution for chapter 3rd History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-3-ruling-the-countryside/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 4th Chapter for Class 8:)\n\n");
+                    printf("Chapter 4th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1Y4Z_wn7wbUi1vnH8Wmy1pVYWs8GtnnvY\n");
+                    printf("Solution for chapter 4th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-4-tribals-dikus-and-the-vision-of-a-golden-age/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 5th Chapter for Class 8:)\n\n");
+                    printf("Chapter 5th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1At0PaJ8HeVrm7ogMT-oEggn9snHxtih-\n");
+                    printf("Solution for chapter 5th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-5-when-people-rebel-1857-and-after/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 6th Chapter for Class 8:)\n\n");
+                    printf("Chapter 6th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=19bLX5IUieB4Oo_DiJRdYR7mfxj7aOKFJ\n");
+                    printf("Solution for chapter 6th History Class 8\n");
+                    printf("https://www.learncbse.in/ncert-solutions-for-class-8-history-social-science-olonialism-and-the-city/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 7th Chapter for Class 8:)\n\n");
+                    printf("Chapter 7th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1mK9p1YIkglc4NK1TOGO2RapL_CNRMC1i\n");
+                    printf("Solution for chapter 7th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-6-weavers-iron-smelters-and-factory-owners/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 8th Chapter for Class 8:)\n\n");
+                    printf("Chapter 8th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1tFdr_13xDnGnfHHpSN-2IJFUZA1onWwl\n");
+                    printf("Solution for chapter 8th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-7-civilising-the-native-educating-the-nation/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 9th Chapter for Class 8:)\n\n");
+                    printf("Chapter 9th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1tsSBGdZfxxcjphaxOSM1dP8VxX4OcZWJ\n");
+                    printf("Solution for chapter 9th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-8-women-caste-and-reform/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==10){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 10th Chapter for Class 8:)\n\n");
+                    printf("Chapter 10th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1Rhg21E38u3ATQggdwFZnfzxJOdk47C4X\n");
+                    printf("Solution for chapter 10th History Class 8\n");
+                    printf("https://www.learncbse.in/ncert-solutions-for-class-8-history-the-changing-world-of-visual-arts/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==11){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 11th Chapter for Class 8:)\n\n");
+                    printf("Chapter 11th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1slzskTzLrz6y0lKSZOcMFDg8jsK2DItQ\n");
+                    printf("Solution for chapter 11th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-9-the-making-of-the-national-movement-1870s-1947/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==12){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 12th Chapter for Class 8:)\n\n");
+                    printf("Chapter 12th History PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1N47pnF5QcN3oQ89hUM7PpFpFEFxgjLzB\n");
+                    printf("Solution for chapter 12th History Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-history-chapter-10-india-after-independence/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 12 Chapters in Class 8 History:)\n");
+                }
+            }
+            if(ssub==2){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 1st Chapter for Class 8:)\n\n");
+                    printf("Chapter 1st Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess301.pdf\n");
+                    printf("Solution for chapter 1st Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-1-the-indian-constitution/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 2nd Chapter for Class 8:)\n\n");
+                    printf("Chapter 2nd Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess302.pdf\n");
+                    printf("Solution for chapter 2nd Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-2-understanding-secularism/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 3rd Chapter for Class 8:)\n\n");
+                    printf("Chapter 3rd Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess303.pdf\n");
+                    printf("Solution for chapter 3rd Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-3-why-do-we-need-a-parliament/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 4th Chapter for Class 8:)\n\n");
+                    printf("Chapter 4th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess304.pdf\n");
+                    printf("Solution for chapter 4th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-4-understanding-laws/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 5th Chapter for Class 8:)\n\n");
+                    printf("Chapter 5th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess305.pdf\n");
+                    printf("Solution for chapter 5th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-5-judiciary/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 6th Chapter for Class 8:)\n\n");
+                    printf("Chapter 6th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess306.pdf\n");
+                    printf("Solution for chapter 6th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-6-understanding-our-criminal-justice-system/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 7th Chapter for Class 8:)\n\n");
+                    printf("Chapter 7th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess307.pdf\n");
+                    printf("Solution for chapter 7th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-7-understanding-marginalisation/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 8th Chapter for Class 8:)\n\n");
+                    printf("Chapter 8th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess308.pdf\n");
+                    printf("Solution for chapter 8th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-8-confronting-marginalisation/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 9th Chapter for Class 8:)\n\n");
+                    printf("Chapter 9th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess309.pdf\n");
+                    printf("Solution for chapter 9th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-9-public-facilities/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==10){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 10th Chapter for Class 8:)\n\n");
+                    printf("Chapter 10th Civics PDF for class 8\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/hess310.pdf\n");
+                    printf("Solution for chapter 10th Civics Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-civics-chapter-10-law-and-social-justice/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 10 Chapters in Class 8 Civics:)\n");
+                }
+            }
+            if(ssub==3){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 1st Chapter for Class 8:)\n\n");
+                    printf("Chapter 1st Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1RVg0DeaNY_dtQUXxIeeZtuo-sj7B4ZLf\n");
+                    printf("Solution for chapter 1st Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-1-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 2nd Chapter for Class 8:)\n\n");
+                    printf("Chapter 2nd Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1RsImwG17htaKYobKlpyVl3FS23l424aq\n");
+                    printf("Solution for chapter 2nd Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-2-land-soil-water-natural-vegetation-and-wildlife-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 3rd Chapter for Class 8:)\n\n");
+                    printf("Chapter 3rd Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1eo9STLBpjOR2ZsZxMJTvobyzUIwATk5z\n");
+                    printf("Solution for chapter 3rd Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-3-mineral-and-power-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 4th Chapter for Class 8:)\n\n");
+                    printf("Chapter 4th Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1nOMwlH-w76jWB4f7LQcg9cs_XRd_jzP_\n");
+                    printf("Solution for chapter 4th Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-4-agriculture/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 5th Chapter for Class 8:)\n\n");
+                    printf("Chapter 5th Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=1oK57--_tV-n--1P3MrKtfDuz7fhlOYSB\n");
+                    printf("Solution for chapter 5th Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-5-industries/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 6th Chapter for Class 8:)\n\n");
+                    printf("Chapter 6th Geography PDF for class 8\n");
+                    printf("https://drive.google.com/open?id=11SDN1kItn6qUQVHoTeEXGFBlKAbbW0Ap\n");
+                    printf("Solution for chapter 6th Geography Class 8\n");
+                    printf("https://byjus.com/ncert-solutions-class-8-social-science-geography-chapter-6-human-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are ony 6 Chapters in Class 8 Geography:)\n");
+                }
+            }
+        }
+    }
