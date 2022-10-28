@@ -934,3 +934,136 @@ int content(){
             }
         }
     }
+    if(class==7){
+        printf("Press 1 To Get the Notes And Solutions of Maths for Class 7:)\n");
+        printf("Press 2 To Get the Notes And Solutions of Science for Class 7:)\n");
+        printf("Press 3 To Get the Notes And Solutions of Social Science for Class 7:)->");
+        scanf("%d",&sub);
+        printf("\n");
+        if(sub==1){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 1st Chapter for Class 7:)\n\n");
+                printf("Chapter 1st Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1HgfdCVXK8b5DwwuTV4AFi3DXAajdOfk2\n");
+                printf("Solution for chapter 1st Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-1-integers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 2nd Chapter for Class 7:)\n\n");
+                printf("Chapter 2nd Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1Qpx4C8zwlN-1sRxwUbYyXX7Od2AGnBZF\n");
+                printf("Solution for chapter 2nd Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-2-fractions-and-decimals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 3rd Chapter for Class 7:)\n\n");
+                printf("Chapter 3rd Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1HvZJtib_TR0_yKtfqD1lEgBSZTDy_4qp\n");
+                printf("Solution for chapter 3rd Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-3-data-handling/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 4th Chapter for Class 7:)\n\n");
+                printf("Chapter 4th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1zfLoQndwBCI2vIlgf6q1kX2xeVraMfJ5\n");
+                printf("Solution for chapter 4th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-4-simple-equations/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 5th Chapter for Class 7:)\n\n");
+                printf("Chapter 5th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1YfuTuRPmJomeJazO6Z1hZCeVkytC8d_G\n");
+                printf("Solution for chapter 5th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-5-lines-and-angles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 6th Chapter for Class 7:)\n\n");
+                printf("Chapter 6th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1K7-LqKFv1xgvFGQy6WQdb6mg94q-Rx8-\n");
+                printf("Solution for chapter 6th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-6-the-triangles-and-its-properties/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 7th Chapter for Class 7:)\n\n");
+                printf("Chapter 7th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=19IpZuAFuAPhcm2wBmId5go-KSzd2nFnE\n");
+                printf("Solution for chapter 7th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-7-congruence-of-triangles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 8th Chapter for Class 7:)\n\n");
+                printf("Chapter 8th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1ZbKhNufhu9q1qgQ2ZiNciNoD4VDfCymq\n");
+                printf("Solution for chapter 8th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-8-comparing-quantities/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 9th Chapter for Class 7:)\n\n");
+                printf("Chapter 9th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1SjjMVEKzNS0GIVrFLGh26F7jIywmv0Qx\n");
+                printf("Solution for chapter 9th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-9-rational-numbers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 10th Chapter for Class 7:)\n\n");
+                printf("Chapter 10th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=10U9mfJx7KSyRLqLitwPjivBKI9clACQK\n");
+                printf("Solution for chapter 10th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-10-practical-geometry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 11th Chapter for Class 7:)\n\n");
+                printf("Chapter 11th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1fGyhWCBUsiPH7QX9wQfHOqOmtWlXj4Zg\n");
+                printf("Solution for chapter 11th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-11-perimeter-and-area/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 12th Chapter for Class 7:)\n\n");
+                printf("Chapter 12th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1RgyR6sRNIjhfdFNZjK28gRhAmXmsUI2y\n");
+                printf("Solution for chapter 12th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-12-algebraic-expressions/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 13th Chapter for Class 7:)\n\n");
+                printf("Chapter 13th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1siNhLNPaaFBZWT2DwseJd_j17O8XDeKZ\n");
+                printf("Solution for chapter 13th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-13-exponents-and-powers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 14th Chapter for Class 7:)\n\n");
+                printf("Chapter 14th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1Razy2pA2cfFEG8MK9OQctkhJdRbpkKRD\n");
+                printf("Solution for chapter 14th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-14-symmetry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 15th Chapter for Class 7:)\n\n");
+                printf("Chapter 15th Maths PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1utGA8_V8671107xy9w-EjMyP1YPBUiO7\n");
+                printf("Solution for chapter 15th Maths Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-maths/chapter-15-visualising-solid-shapes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter correct Chapter number there are only 15 Chapters in Class 7 Maths:)\n");
+            }
+        }
