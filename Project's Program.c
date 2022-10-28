@@ -1067,3 +1067,154 @@ int content(){
                 printf("Please enter correct Chapter number there are only 15 Chapters in Class 7 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 1st Chapter for Class 7:)\n\n");
+                printf("Chapter 1st Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1uLKpMKNY42lScLgddnk6bPbEvxMwSvfl\n");
+                printf("Solution for chapter 1st Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-1-nutrition-in-plants/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 2nd Chapter for Class 7:)\n\n");
+                printf("Chapter 2nd Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1L3uVF7V6EjiGC8tfBZVbOjeLUKYsDV-8\n");
+                printf("Solution for chapter 2nd Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-2-nutrition-in-animals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 3rd Chapter for Class 7:)\n\n");
+                printf("Chapter 3rd Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=10A_t7p_xQRxdkgrYWT_jyhK_hC2eVHN-\n");
+                printf("Solution for chapter 3rd Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-3-fiber-to-fabric/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 4th Chapter for Class 7:)\n\n");
+                printf("Chapter 4th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1gzti3MsHdbLXE8YlIZGM6rQUboz46miu\n");
+                printf("Solution for chapter 4th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-4-heat/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 5th Chapter for Class 7:)\n\n");
+                printf("Chapter 5th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1niJ04-B8wxaeD6YhFRYKiaj7Na0Ed5ko\n");
+                printf("Solution for chapter 5th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-5-acid-base-and-salt/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 6th Chapter for Class 7:)\n\n");
+                printf("Chapter 6th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1rfRrgKmsGqPvXIA0hGzaXW-pfnUlUNoq\n");
+                printf("Solution for chapter 6th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-6-physical-and-chemical-changes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 7th Chapter for Class 7:)\n\n");
+                printf("Chapter 7th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1y5EsHcH8VllXdE3rzQN3KsZqMHAhBwcS\n");
+                printf("Solution for chapter 7th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-7-weather-climate-and-adaptations-of-animals-to-climate/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 8th Chapter for Class 7:)\n\n");
+                printf("Chapter 8th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1zNsRdGmuVlvKet1TJv5su8WrUwyDfXT3\n");
+                printf("Solution for chapter 8th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-8-winds-storms-and-cyclones/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 9th Chapter for Class 7:)\n\n");
+                printf("Chapter 9th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1DwpGKNmmlk3Ml2niNNwgG_zj9uJXWr2q\n");
+                printf("Solution for chapter 9th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-9-soil/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 10th Chapter for Class 7:)\n\n");
+                printf("Chapter 10th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1zmLrrUN09wAH3HkNF-u5VL0mp6lHPRaz\n");
+                printf("Solution for chapter 10th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-10-respiration-in-animals-and-plants/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 11th Chapter for Class 7:)\n\n");
+                printf("Chapter 11th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1lmQtkuo0AmwquTKngKzEZ132ZEEiC8XZ\n");
+                printf("Solution for chapter 11th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-11-transportation-in-animals-and-plants/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 12th Chapter for Class 7:)\n\n");
+                printf("Chapter 12th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=11ufCx2OfIZsbrPEjLhiRDIOv7qH2LXBe\n");
+                printf("Solution for chapter 12th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-12-reproduction-in-plants/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 13th Chapter for Class 7:)\n\n");
+                printf("Chapter 13th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1N1m5sVNINyA_radkIVlzioI7eovBGzkO\n");
+                printf("Solution for chapter 13th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-13-motion-and-time/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 14th Chapter for Class 7:)\n\n");
+                printf("Chapter 14th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1SFH2TH187v-tPeRV9kgLd9REymM5AN7E\n");
+                printf("Solution for chapter 14th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-14-electric-current-and-its-effects/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 15th Chapter for Class 7:)\n\n");
+                printf("Chapter 15th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1TB5RB7FPKgAZxmKgfk4OMvs5HARoqXy4\n");
+                printf("Solution for chapter 15th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-15-light/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 16th Chapter for Class 7:)\n\n");
+                printf("Chapter 16th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1mu_zC_4AT0M_1QdSGi49YAs7knrQUhl6\n");
+                printf("Solution for chapter 16th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-16-water-a-precious-resource/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==17){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 17th Chapter for Class 7:)\n\n");
+                printf("Chapter 17th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1O5Z7kaCdqk4sHkrXrZrw0TcHHuM-JJuq\n");
+                printf("Solution for chapter 17th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-17-forests-our-lifeline/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==18){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 18th Chapter for Class 7:)\n\n");
+                printf("Chapter 18th Science PDF for class 7\n");
+                printf("https://drive.google.com/open?id=1kyzjfGnE5egTxPfWE8FTgBDMoEvXf_gu\n");
+                printf("Solution for chapter 18th Science Class 7\n");
+                printf("https://byjus.com/ncert-solutions-class-7-science/chapter-18-wastewater-story/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 18 Chapters in Class 7 Science:)\n");
+            }
+        }
