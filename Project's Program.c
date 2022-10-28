@@ -861,3 +861,76 @@ int content(){
                     printf("Please enter the correct Chapter number there are Only 9 Chapters in Class 6 Civics:)\n");
                 }
             }
+            if(ssub==3){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 1st Chapter for Class 6:)\n\n");
+                    printf("Chapter 1st Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=173bPSe5KRheFmT35ZvAqN-3pJZH3Z94u\n");
+                    printf("Solution for chapter 1st Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-1-the-earth-in-the-solar-system/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 2nd Chapter for Class 6:)\n\n");
+                    printf("Chapter 2nd Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1xjZfeTyXnYSQoRoE7SOM_ZBnr37SmmTt\n");
+                    printf("Solution for chapter 2nd Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-2-globe-latitudes-and-longitudes/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 3rd Chapter for Class 6:)\n\n");
+                    printf("Chapter 3rd Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1XOt1Xe-xjXesIGjQn4TwHlaEIvRQy3os\n");
+                    printf("Solution for chapter 3rd Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-3-motions-of-the-earth/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 4th Chapter for Class 6:)\n\n");
+                    printf("Chapter 4th Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1YVktYJbCtg10X6ZfL4Yw0Ltz4D8hCn7J\n");
+                    printf("Solution for chapter 4th Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-4-maps/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 5th Chapter for Class 6:)\n\n");
+                    printf("Chapter 5th Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=14QhRqaefT5HInucj-r3bEyRvipf90b3J\n");
+                    printf("Solution for chapter 5th Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-5-major-domains-of-the-earth/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 6th Chapter for Class 6:)\n\n");
+                    printf("Chapter 6th Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1Rp4CKoWEnXfQzk3BAyzgyhUSgLw2Kr0k\n");
+                    printf("Solution for chapter 6th Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-6-major-landforms-of-the-earth/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 7th Chapter for Class 6:)\n\n");
+                    printf("Chapter 7th Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1FE2536C-5V5FRtsWRaZ3hPRL3Hi_1yLM\n");
+                    printf("Solution for chapter 7th Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-7-our-country-india/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 8th Chapter for Class 6:)\n\n");
+                    printf("Chapter 8th Geography PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1cPxArpCl6s2a-zjk1_NFR8oNvViuOLmM\n");
+                    printf("Solution for chapter 8th Geography Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-geography-chapter-8-india-climate-vegetation-and-wildlife/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are Only 8 Chapters in Class 6 Geography:)\n");
+                }
+            }
+        }
+    }
