@@ -1471,3 +1471,144 @@ int content(){
             }
         }
     }
+    if(class==8){
+        printf("Press 1 To Get the Notes And Solutions of Maths for Class 8:)\n");
+        printf("Press 2 To Get the Notes And Solutions of Science for Class 8:)\n");
+        printf("Press 3 To Get the Notes And Solutions of Social Science for Class 8:)->");
+        scanf("%d",&sub);
+        printf("\n");
+        if(sub==1){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 1st Chapter for Class 8:)\n\n");
+                printf("Chapter 1st Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1jCJoe8Febj8KxS-npYRuj4Yc3AJjcvOd\n");
+                printf("Solution for chapter 1st Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-1-rational-numbers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 2nd Chapter for Class 8:)\n\n");
+                printf("Chapter 2nd Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1ajm6OLRAYP0ApgTSvH_w4L-FlFFlk9XV\n");
+                printf("Solution for chapter 2nd Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-2-linear-equation/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 3rd Chapter for Class 8:)\n\n");
+                printf("Chapter 3rd Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=15Wkf6s9sB3kOxtc1r8lieYgucSWudb1w\n");
+                printf("Solution for chapter 3rd Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-3-understanding-quadrilaterals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 4th Chapter for Class 8:)\n\n");
+                printf("Chapter 4th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1DUbX4ajn-1m7kkSMPFji5K_PPo7WYshZ\n");
+                printf("Solution for chapter 4th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-4-applied-practical-geometry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 5th Chapter for Class 8:)\n\n");
+                printf("Chapter 5th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1VW5VN514lVRvGweNe7VLKf706sZLHL2e\n");
+                printf("Solution for chapter 5th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-5-about-data-handling/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 6th Chapter for Class 8:)\n\n");
+                printf("Chapter 6th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1En-eXKoH-wBYzHFVqaEuBFAamnKDyX8W\n");
+                printf("Solution for chapter 6th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-6-square-square-roots/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 7th Chapter for Class 8:)\n\n");
+                printf("Chapter 7th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=15onOuxr3aZRDTCpmOG55GXAqDVPzBPyK\n");
+                printf("Solution for chapter 7th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-7-cube-and-cube-roots/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 8th Chapter for Class 8:)\n\n");
+                printf("Chapter 8th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1anVm2fCwz7GqDfjMbC83LNVGBmOpNcB5\n");
+                printf("Solution for chapter 8th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-8-comparing-quantities/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 9th Chapter for Class 8:)\n\n");
+                printf("Chapter 9th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=16lmLlYQjcmHacp8A7OC2nS5-fwSxNy-f\n");
+                printf("Solution for chapter 9th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-9-algebraic-expressions-and-identities/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 10th Chapter for Class 8:)\n\n");
+                printf("Chapter 10th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1L0NC7Eo71gXZ8sdSRqKXVVD86Q96sNZY\n");
+                printf("Solution for chapter 10th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-10-visualizing-solid-shapes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 11th Chapter for Class 8:)\n\n");
+                printf("Chapter 11th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=15i21cs6Ly95fbjKn5X1KJgWiSVUM6zZl\n");
+                printf("Solution for chapter 11th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-11-mensuration/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 12th Chapter for Class 8:)\n\n");
+                printf("Chapter 12th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1iAWacbr-mpPCmpBFMt6lfAknukRuDl9M\n");
+                printf("Solution for chapter 12th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-12-exponents-and-powers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 13th Chapter for Class 8:)\n\n");
+                printf("Chapter 13th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1zAH4NEyj2a4-2VWDYV5IV4rWYh8kLDEe\n");
+                printf("Solution for chapter 13th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-13-direct-inverse-proportions/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 14th Chapter for Class 8:)\n\n");
+                printf("Chapter 14th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1KKop4sdvKC1OYsZSB05egmxXeaTqrx_f\n");
+                printf("Solution for chapter 14th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-14-factorisation/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 15th Chapter for Class 8:)\n\n");
+                printf("Chapter 15th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1G6DJIQn18kyhtupVkCkeBLf6TlNkZkTw\n");
+                printf("Solution for chapter 15th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-15-introduction-to-graphs/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 16th Chapter for Class 8:)\n\n");
+                printf("Chapter 16th Maths PDF for class 8\n");
+                printf("https://drive.google.com/open?id=15g78tO1CNKZNEvBYndV8xaR9T7OG11b3\n");
+                printf("Solution for chapter 16th Maths Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-maths/chapter-16-playing-with-number/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 16 Chapters in Class 8 Maths:)\n");
+            }
+        }
