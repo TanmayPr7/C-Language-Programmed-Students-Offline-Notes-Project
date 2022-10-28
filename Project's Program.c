@@ -673,3 +673,112 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 16 Chapters in Class 6 Science:)\n");
             }
         }
+        if(sub==3){
+            printf("Press 1 To Get the Notes And Solutions of History for Class 6:)\n");
+            printf("Press 2 To Get the Notes And Solutions of Civics for Class 6:)\n");
+            printf("Press 3 To Get the Notes And Solutions of Geography for Class 6:)->");
+            scanf("%d",&ssub);
+            printf("\n");
+            if(ssub==1){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 1st Chapter for Class 6:)\n\n");
+                    printf("Chapter 1st History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1BHZnQC36TwLrhXsDCZC7LUAUBK4CpkY1\n");
+                    printf("Solution for chapter 1st History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-1-what-where-when-how/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 2nd Chapter for Class 6:)\n\n");
+                    printf("Chapter 2nd History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1_k2xZNYk92ztU6ceTOTYnKCYOo1R1gux\n");
+                    printf("Solution for chapter 2nd History Class 6\n");
+                    printf("https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-social-science-history-our-past-chapter-2\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 3rd Chapter for Class 6:)\n\n");
+                    printf("Chapter 3rd History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1GTsgs_WrEhTROajLdrMKMEIVU7-jjOBb\n");
+                    printf("Solution for chapter 3rd History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-2-from-hunting-gathering-to-growing-food/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 4th Chapter for Class 6:)\n\n");
+                    printf("Chapter 4th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=114xPpFkqs6XxoH72Dm_dRjHys3K9s5I_\n");
+                    printf("Solution for chapter 4th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-3-in-the-earliest-cities/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                } 
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 5th Chapter for Class 6:)\n\n");
+                    printf("Chapter 5th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1uxeOK4X8r6sgIpkwFOujt59MD91QcWVr\n");
+                    printf("Solution for chapter 5th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-4-what-books-and-burials-tell-us/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 6th Chapter for Class 6:)\n\n");
+                    printf("Chapter 6th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1ww7q4hFkKKGVtr-wS5Nv2VFW-mD7BPGK\n");
+                    printf("Solution for chapter 6th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-5-kingdoms-kings-and-an-early-republic/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 7th Chapter for Class 6:)\n\n");
+                    printf("Chapter 7th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1npqvpSCSSwSGWfbTv2geGd4YmWuYcSao\n");
+                    printf("Solution for chapter 7th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-6-new-questions-and-ideas/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 8th Chapter for Class 6:)\n\n");
+                    printf("Chapter 8th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1War0_WW3ekP4B-0SSvoGHP65bxsiJv0p\n");
+                    printf("Solution for chapter 8th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-7-ashoka-the-emperor-who-gave-up-war/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==9){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 9th Chapter for Class 6:)\n\n");
+                    printf("Chapter 9th History PDF for class 6\n");
+                    printf("Chapter 9: Vital Villages, Thriving Towns\n");
+                    printf("Solution for chapter 9th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-8-vital-villages-thriving-towns/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==10){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 10th Chapter for Class 6:)\n\n");
+                    printf("Chapter 10th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1pTI3VGRKks_8sMyr9aD5W0n4AlSdZ9_h\n");
+                    printf("Solution for chapter 10th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-9-traders-kings-and-pilgrims/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==11){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 11th Chapter for Class 6:)\n\n");
+                    printf("Chapter 11th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1QqgRFkVfRCmHO7FBnYQetGAgllWT_7tb\n");
+                    printf("Solution for chapter 11th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-10-new-empires-and-kingdoms/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==12){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 12th Chapter for Class 6:)\n\n");
+                    printf("Chapter 12th History PDF for class 6\n");
+                    printf("https://drive.google.com/open?id=1guUuBfKM139UOFTuSrAReyoLTPV5zt8P\n");
+                    printf("Solution for chapter 12th History Class 6\n");
+                    printf("https://byjus.com/ncert-solutions-class-6-social-science-history-chapter-11-buildings-paintings-and-books/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 12 Chapters in Class 6 History:)\n");
+                }
+            }
