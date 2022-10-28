@@ -538,3 +538,138 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 14 Chapter in Class 6 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 1st Chapter for Class 6:)\n\n");
+                printf("Chapter 1st Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1FVG7SwGZDD2Cnpd_ENupk9wFzNeALHaK\n");
+                printf("Solution for chapter 1st Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-1-food-where-does-it-come-from/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 2nd Chapter for Class 6:)\n\n");
+                printf("Chapter 2nd Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1-vn8nBC1lXwgozwuhb0l2fopQQ0G22VD\n");
+                printf("Solution for chapter 2nd Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-2-components-of-food/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 3rd Chapter for Class 6:)\n\n");
+                printf("Chapter 3rd Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1iKTDtVRsK9cLzNl7Ou64lOLVF1COFx0o\n");
+                printf("Solution for chapter 3rd Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-3-fibre-to-fabric/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 4th Chapter for Class 6:)\n\n");
+                printf("Chapter 4th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1oYo6GhNJmylf8lzE_DAknFgt7HO2rt-D\n");
+                printf("Solution for chapter 4th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-4-sorting-materials-groups/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 5th Chapter for Class 6:)\n\n");
+                printf("Chapter 5th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=15pfRAhXafH3VQjWijIQAb9N-QDTW5_of\n");
+                printf("Solution for chapter 5th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-5-separation-of-substances/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 6th Chapter for Class 6:)\n\n");
+                printf("Chapter 6th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1Mu4RscQ6xImGKWsezGFh_9uxNHn9xhSV\n");
+                printf("Solution for chapter 6th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-6-changes-around-us/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 7th Chapter for Class 6:)\n\n");
+                printf("Chapter 7th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1F8170rYqRDIJI2eag45puGwhT3apk4BQ\n");
+                printf("Solution for chapter 7th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-7-getting-to-know-plants/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 8th Chapter for Class 6:)\n\n");
+                printf("Chapter 8th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1EXgpYIFypXPxEpDpcGSu3ZOG10LShrjH\n");
+                printf("Solution for chapter 8th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-8-body-movements/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 9th Chapter for Class 6:)\n\n");
+                printf("Chapter 9th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1WoG_SXeIgz1ZmgrQXUYKItpElgW7FVyU\n");
+                printf("Solution for chapter 9th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-9-the-living-organisms-their-surroundings/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 10th Chapter for Class 6:)\n\n");
+                printf("Chapter 10th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=11Ly-cC4LGyDnhuCam9Cz2jwW15maDEhn\n");
+                printf("Solution for chapter 10th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-10-motion-and-measurement-of-distances/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 11th Chapter for Class 6:)\n\n");
+                printf("Chapter 11th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1GGaZ-ei7f_DsA5S8N16zUZxhqw9Uknub\n");
+                printf("Solution for chapter 11th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-11-light-shadow-and-reflection/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 12th Chapter for Class 6:)\n\n");
+                printf("Chapter 12th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1BRJwdKY_VQCflrk67iQ3z0rDB2l_oR3h\n");
+                printf("Solution for chapter 12th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-12-electricity-and-circuits/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 13th Chapter for Class 6:)\n\n");
+                printf("Chapter 13th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1jVXaxLEPTz59OpxyCSF8lHxWkWsi-_gW\n");
+                printf("Solution for chapter 13th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-13-fun-with-magnets/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 14th Chapter for Class 6:)\n\n");
+                printf("Chapter 14th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1YYqhg_IVjX2B4VY2lv9HM0vLxfA2rJ0o\n");
+                printf("Solution for chapter 14th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-14-water/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 15th Chapter for Class 6:)\n\n");
+                printf("Chapter 15th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1G2LlNkwbEoWu4f0reHAOQLLB79GyZHww\n");
+                printf("Solution for chapter 15th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-15-air-around-us/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 16th Chapter for Class 6:)\n\n");
+                printf("Chapter 16th Science PDF for class 6\n");
+                printf("https://drive.google.com/open?id=1_2CniU9M1P7fKZwIS8szObusvC1q1WWG\n");
+                printf("Solution for chapter 16th Science Class 6\n");
+                printf("https://byjus.com/ncert-solutions-class-6-science/chapter-16-garbage/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 16 Chapters in Class 6 Science:)\n");
+            }
+        }
