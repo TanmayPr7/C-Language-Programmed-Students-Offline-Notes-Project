@@ -1612,3 +1612,154 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 16 Chapters in Class 8 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 1st Chapter for Class 8:)\n\n");
+                printf("Chapter 1st Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1_6TsX9PvdF2EE9sp-rUVSwV-WHQtXfsF\n");
+                printf("Solution for chapter 1st Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-1-crop-production-and-management/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 2nd Chapter for Class 8:)\n\n");
+                printf("Chapter 2nd Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1GyGse3nhsnHrWgMHKGByF4Y2P0Ap6Odp\n");
+                printf("Solution for chapter 2nd Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-2-microorganism-friend-foe/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 3rd Chapter for Class 8:)\n\n");
+                printf("Chapter 3rd Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1BUZHLYp3DPoZvPtimH8RyyiuXUsdm0v9\n");
+                printf("Solution for chapter 3rd Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-3-synthetic-fibres-and-plastics/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 4th Chapter for Class 8:)\n\n");
+                printf("Chapter 4th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1J_5E7bmw-_yk5wELzCTnBrvxlPOFrefA\n");
+                printf("Solution for chapter 4th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-4-materials-metals-and-non-metals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 5th Chapter for Class 8:)\n\n");
+                printf("Chapter 5th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1z-m2ODECTKmHl2OpG6dRhZZYY0pp_tcj\n");
+                printf("Solution for chapter 5th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-5-coal-and-petroleum/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 6th Chapter for Class 8:)\n\n");
+                printf("Chapter 6th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=17Ugznmo-oAkIHIXSAbfiv3A7jPc9_uvc\n");
+                printf("Solution for chapter 6th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-6-combustion-and-flames/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 7th Chapter for Class 8:)\n\n");
+                printf("Chapter 7th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1oqjftYf_jnDQUd9_2CvnGbjmgyi7SEpb\n");
+                printf("Solution for chapter 7th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-7-conservation-of-plants-and-animals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 8th Chapter for Class 8:)\n\n");
+                printf("Chapter 8th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1VXbtV7itkg1WcqY839tFgjsFirUDG06-\n");
+                printf("Solution for chapter 8th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-8-cell-structure-and-functions/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 9th Chapter for Class 8:)\n\n");
+                printf("Chapter 9th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1YEkDnz3KDMG4B4dXqHq4wpC0qHlB_6qL\n");
+                printf("Solution for chapter 9th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-9-reproduction-in-animals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 10th Chapter for Class 8:)\n\n");
+                printf("Chapter 10th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1i0yhi-TnGUlLqwg2tullFGDYlCrlakRn\n");
+                printf("Solution for chapter 10th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-10-reaching-the-age-of-adolescence/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 11th Chapter for Class 8:)\n\n");
+                printf("Chapter 11th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1Pb7DgNJwNmhvT-JUU45kapExIe0OPCYI\n");
+                printf("Solution for chapter 11th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-11-force-and-pressure/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 12th Chapter for Class 8:)\n\n");
+                printf("Chapter 12th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1IpPPuql2a4OGk1apm7nlRNg70AyoDo5F\n");
+                printf("Solution for chapter 12th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-12-friction/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 13th Chapter for Class 8:)\n\n");
+                printf("Chapter 13th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1crO1K9RB1Ew8gxr4pQwQtnhPT1O6ggvi\n");
+                printf("Solution for chapter 13th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-13-sound/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 14th Chapter for Class 8:)\n\n");
+                printf("Chapter 14th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1Bbrg5Tfxr72uGuhPpKdSbYUTM9DGV8a6\n");
+                printf("Solution for chapter 14th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-14-chemical-effects-of-electric-current/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 15th Chapter for Class 8:)\n\n");
+                printf("Chapter 15th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1y0UPNd-o7gOD5oAOp2NfYJeHpJTzHowg\n");
+                printf("Solution for chapter 15th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-15-some-natural-phenomena/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 16th Chapter for Class 8:)\n\n");
+                printf("Chapter 16th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1mxWr1xhprSqbs5217nZGoS9ZY76g4i1i\n");
+                printf("Solution for chapter 16th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-16-light/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==17){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 17th Chapter for Class 8:)\n\n");
+                printf("Chapter 17th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=1uem_1EHbvjAxWtdj4SXzKJIbrqIo6n9y\n");
+                printf("Solution for chapter 17th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-17-stars-and-the-solar-system/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==18){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 18th Chapter for Class 8:)\n\n");
+                printf("Chapter 18th Science PDF for class 8\n");
+                printf("https://drive.google.com/open?id=112Sno0pjPxY5PslYKdpTWJAKM_-AdeyH\n");
+                printf("Solution for chapter 18th Science Class 8\n");
+                printf("https://byjus.com/ncert-solutions-class-8-science/chapter-18-pollution-air-water/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 18 Chapter in Class 8 Science:)\n");
+            }
+        }
