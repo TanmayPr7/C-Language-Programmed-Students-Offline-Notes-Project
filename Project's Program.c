@@ -2149,3 +2149,130 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 15 Chapter in Class 9 Maths:)\n ");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 1st Chapter for Class 9:)\n\n");
+                printf("Chapter 1st Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1hcgvi5tnb0x4Fo4u_TS7IVIw1rsrBGb9/view?usp=sharing\n");
+                printf("Solution for chapter 1st Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-1-matter-in-our-surroundings/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 2nd Chapter for Class 9:)\n\n");
+                printf("Chapter 2nd Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1yF3ZvehchqTqQx3TYd2wWCzKBeMUsPuG/view?usp=sharing\n");
+                printf("Solution for chapter 2nd Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-2-is-matter-around-us-pure/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 3rd Chapter for Class 9:)\n\n");
+                printf("Chapter 3rd Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1t5FyaNnhPeOiDpPs5nPe2xGwIDri0N_J/view?usp=sharing\n");
+                printf("Solution for chapter 3rd Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-3-atoms-and-molecules/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 4th Chapter for Class 9:)\n\n");
+                printf("Chapter 4th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1puA4w--Y1JwrcLQmG-6op-3UcrlrUqEH/view?usp=sharing\n");
+                printf("Solution for chapter 4th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-4-structure-of-atom/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 5th Chapter for Class 9:)\n\n");
+                printf("Chapter 5th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1Xajrml5FesmCtx7qyMcixOzkGQfD3tdi/view?usp=sharing\n");
+                printf("Solution for chapter 5th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-5-fundamental-unit-of-life/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 6th Chapter for Class 9:)\n\n");
+                printf("Chapter 6th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/19FZei63O4Q6HFKgPWSVnD3u1H500D2_I/view?usp=sharing\n");
+                printf("Solution for chapter 6th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-6-tissues/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 7th Chapter for Class 9:)\n\n");
+                printf("Chapter 7th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/17ZjCdMLEwYm4XLIq6ouxKpHqtF5mrG_Q/view?usp=sharing\n");
+                printf("Solution for chapter 7th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-7-diversity-in-living-organisms/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 8th Chapter for Class 9:)\n\n");
+                printf("Chapter 8th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/15IUn2FrabYlQeMFzlUQFBdNLV5EdGdZR/view?usp=sharing\n");
+                printf("Solution for chapter 8th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-8-motion/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 9th Chapter for Class 9:)\n\n");
+                printf("Chapter 9th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1dyn4rVsPE8PxBHQSmKo8OQ-APc94KNpO/view?usp=sharing\n");
+                printf("Solution for chapter 9th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-9-force-and-laws-of-motion/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 10th Chapter for Class 9:)\n\n");
+                printf("Chapter 10th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1sTSuy7xXo6HC9u2NRYYRLfnwNCod-GqS/view?usp=sharing\n");
+                printf("Solution for chapter 10th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-10-gravitation/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 11th Chapter for Class 9:)\n\n");
+                printf("Chapter 11th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1-dlw9076NFT3_IAiJCArbu5qwOgfvmAz/view?usp=sharing\n");
+                printf("Solution for chapter 11th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-11-work-and-energy/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 12th Chapter for Class 9:)\n\n");
+                printf("Chapter 12th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1TcdXm5-kd16uS-BXrqWWRX1tdiUjmMMk/view?usp=sharing\n");
+                printf("Solution for chapter 12th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-12-sound/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 13th Chapter for Class 9:)\n\n");
+                printf("Chapter 13th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1rkisqddpLFxVUqnEb8PN_d3aNckcBUgt/view?usp=sharing\n");
+                printf("Solution for chapter 13th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-13-why-do-we-fall-ill/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 14th Chapter for Class 9:)\n\n");
+                printf("Chapter 14th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1bdeefqpsiUIuihuRo3JQSalpGm_qMAAr/view?usp=sharing\n");
+                printf("Solution for chapter 14th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-14-natural-resources/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 15th Chapter for Class 9:)\n\n");
+                printf("Chapter 15th Science PDF for class 9\n");
+                printf("https://drive.google.com/file/d/1EwO_KUl0CwDSQH_7UMYETJIx25jkYKIL/view?usp=sharing\n");
+                printf("Solution for chapter 15th Science Class 9\n");
+                printf("https://byjus.com/ncert-solutions-class-9-science/chapter-15-improvement-in-food-resources/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 15 Chapters in Class 9 in Science:)\n");
+            }
+        }
