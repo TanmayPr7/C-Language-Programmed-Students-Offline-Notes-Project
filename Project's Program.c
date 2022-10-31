@@ -2276,3 +2276,224 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 15 Chapters in Class 9 in Science:)\n");
             }
         }
+        if(sub==3){
+            printf("Press 1 To Get the Notes And Solutions of History for Class 9:)\n");
+            printf("Press 2 To Get the Notes And Solutions of Civics for Class 9:)\n");
+            printf("Press 3 To Get the Notes And Solutions of Geography for Class 9:)\n");
+            printf("Press 4 To Get the Notes And Solutions of Economics for Class 9:)->");
+            scanf("%d",&ssub);
+            printf("\n");
+            if(ssub==1){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 1st Chapter for Class 9:)\n\n");
+                    printf("Chapter 1st History PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1yLhLgqkl1ZXe4RJ-aZJv1qiXEfu8BgdW/view?usp=sharing\n");
+                    printf("Solution for chapter 1st History Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-history-chapter-1-french-revolution/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 2nd Chapter for Class 9:)\n\n");
+                    printf("Chapter 2nd History PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1ZylDDteFgC6419NWsBnmNmFwhvsFp-fQ/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd History Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-history-chapter-2-socialism-in-europe-and-the-russian-revolution/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 3rd Chapter for Class 9:)\n\n");
+                    printf("Chapter 3rd History PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1LvvYoAeQ2JPhpjTifTYS_F_dSZEY5DFO/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd History Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-history-chapter-3-nazism-and-the-rise-of-hitler/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 4th Chapter for Class 9:)\n\n");
+                    printf("Chapter 4th History PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1TEKhTEZPr-AYPxptkizVgjUxougxm4sM/view?usp=sharing\n");
+                    printf("Solution for chapter 4th History Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-history-chapter-4-forest-society-and-colonialism/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 5th Chapter for Class 9:)\n\n");
+                    printf("Chapter 5th History PDF for class 9\n");
+                    printf("https://drive.google.com/open?id=11kHsgpQsNwk2gGAREY_SE2Cgih9IN7nd\n");
+                    printf("Solution for chapter 5th History Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-history-chapter-5-pastoralists-in-the-modern-world/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 6th Chapter for Class 9:)\n\n");
+                    printf("Chapter 6th History PDF for class 9\n");
+                    printf("https://drive.google.com/open?id=13weR8cZd51RFOEROwQrD_FDmWrb3PGWU\n");
+                    printf("Solution for chapter 6th History Class 9\n");
+                    printf("https://www.learncbse.in/ncert-solutions-for-class-9-history-sst-peasant-and-farmers/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 7th Chapter for Class 9:)\n\n");
+                    printf("Chapter 7th History PDF for class 9\n");
+                    printf("https://drive.google.com/open?id=1aY3YHCsFovOCtYWWAOCJGqtMeqC2tB-t\n");
+                    printf("Solution for chapter 7th History Class 9\n");
+                    printf("https://www.learncbse.in/ncert-solutions-for-class-9-history-sst-the-story-of-cricket/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 8th Chapter for Class 9:)\n\n");
+                    printf("Chapter 8th History PDF for class 9\n");
+                    printf("https://drive.google.com/open?id=1jkXp6Z-DRdEc3gl2GECPgKektrE_fj3g\n");
+                    printf("Solution for chapter 8th History Class 9\n");
+                    printf("https://www.learncbse.in/ncert-solutions-for-class-9-history-sst-clothing-a-social-history/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 8 Chapters in Class 9 History:)\n");
+                }
+            }
+            if(ssub==2){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 1st Chapter for Class 9:)\n\n");
+                    printf("Chapter 1st Civics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1Miz9XzXsAWr-3GTT_aUIrrRC10FC9BB7/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Civics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-political-science-chapter-1-what-is-democracy-why-is-democracy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 2nd Chapter for Class 9:)\n\n");
+                    printf("Chapter 2nd Civics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/10ZleedrvsrCBuxXguvNHbVNpXoFRVKEH/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Civics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-political-science-chapter-2-constitutional-design/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 3rd Chapter for Class 9:)\n\n");
+                    printf("Chapter 3rd Civics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/17F7SLYkeGP2Y6kzuqyg1NxMhfLq729aY/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Civics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-political-science-chapter-3-electoral-politics/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 4th Chapter for Class 9:)\n\n");
+                    printf("Chapter 4th Civics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1Vi6jsAIPj5XpzgVhqq0v-LWR8BS_GthX/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Civics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-political-science-chapter-4-working-of-institutions/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 5th Chapter for Class 9:)\n\n");
+                    printf("Chapter 5th Civics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1WKxWNUCzDbxyZdXpqibnTmb3Ux6K3Z0B/view?usp=sharing\n");
+                    printf("Solution for chapter 5th Civics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-political-science-chapter-5-democratic-rights/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct number there are only 5 Chapters in Class 9 Civics:)\n");
+                }
+            }
+            if(ssub==3){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 1st Chapter for Class 9:)\n\n");
+                    printf("Chapter 1st Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/13Nbte8ywn9V5GoSX3hwRnaN_mCg73IDn/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-1-india-size-and-location/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 2nd Chapter for Class 9:)\n\n");
+                    printf("Chapter 2nd Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1t_5TM8xTEC4h3rlJNTSnAwBKQ0zDbb2Z/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-2-physical-features-of-india/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 3rd Chapter for Class 9:)\n\n");
+                    printf("Chapter 3rd Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1ifNazHdFjS7hDlZYK7FmNiXsU8NQLrbh/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-3-drainage/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 4th Chapter for Class 9:)\n\n");
+                    printf("Chapter 4th Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/11As5bEJgdHStNoGRB7bYLMmLxg2gY098/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-4-climate/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 5th Chapter for Class 9:)\n\n");
+                    printf("Chapter 5th Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1gsFbTI-WbqlHK218-oGJJWlIiD81_U1F/view?usp=sharing\n");
+                    printf("Solution for chapter 5th Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-5-natural-vegetation-and-wildlife/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 6th Chapter for Class 9:)\n\n");
+                    printf("Chapter 6th Geography PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1kXRqcAXCS_jV2Xg8KKn0KkOSvzg_GaUR/view?usp=sharing\n");
+                    printf("Solution for chapter 6th Geography Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-geography-chapter-6-population/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 6 Chapters in Class 9 Geography:)\n");
+                }
+            }
+            if(ssub==4){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 1st Chapter for Class 9:)\n\n");
+                    printf("Chapter 1st Economics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1rC074DvZrbVLiAPjO2bOyq1elX1gMxmq/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Economics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-economics-chapter-1-the-story-of-village-palampur/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 2nd Chapter for Class 9:)\n\n");
+                    printf("Chapter 2nd Economics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/1Sg4s50pm8m6I_VPm6Fg41NFVjIxV-Ijx/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Economics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-economics-chapter-2-people-as-resource/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 3rd Chapter for Class 9:)\n\n");
+                    printf("Chapter 3rd Economics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/16_cl-UkRE2YfFS8VIYvytpP9VupV-z2g/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Economics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-economics-chapter-3-poverty-as-a-challenge/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 4th Chapter for Class 9:)\n\n");
+                    printf("Chapter 4th Economics PDF for class 9\n");
+                    printf("https://drive.google.com/file/d/16feZMDbKYIzyjXH4Vkl8I7kOBdzX84N_/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Economics Class 9\n");
+                    printf("https://byjus.com/ncert-solutions-class-9-social-science-economics-chapter-4-food-security-in-india/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 4 Chapters in Class 9 Economics:)\n");
+                }
+            }
+        }
+    }
