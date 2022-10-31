@@ -2497,3 +2497,162 @@ int content(){
             }
         }
     }
+    if(class==10){
+        printf("Press 1 To Get the Notes And Solutions of Maths for Class 10:)\n");
+        printf("Press 2 To Get the Notes And Solutions of Science for Class 10:)\n");
+        printf("Press 3 To Get the Notes And Solutions of Social Science for Class 10:)->");
+        scanf("%d",&sub);
+        printf("\n");
+        if(sub==1){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 1st Chapter for Class 10:)\n\n");
+                printf("Chapter 1st Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/13YD_3sEjhHxraU1biUUn8mL8MVT0cNVR/view?usp=sharing\n");
+                printf("Chapter 1st Maths Formula for class 10\n");
+                printf("https://www.learncbse.in/cbse-class-10-maths-real-numbers-formulas/\n");
+                printf("Solution for chapter 1st Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-1-real-numbers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 2nd Chapter for Class 10:)\n\n");
+                printf("Chapter 2nd Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1tFCgZqSoUdF874xkdVYIAByMNdZTuzMD/view?usp=sharing\n");
+                printf("Chapter 2nd Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=19Iwl7OYs9QTOzPz9Xc7XuMPAZYK6XLv2\n");
+                printf("Solution for chapter 2nd Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-2-polynomials/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 3rd Chapter for Class 10:)\n\n");
+                printf("Chapter 3rd Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1nyKPp969OxI96Xsg8nFSELNbw6yQVQFi/view?usp=sharing\n");
+                printf("Chapter 3rd Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1dgrEH_BOus3pm6Kw5iKJgWZ3OcezRdL6\n");
+                printf("Solution for chapter 3rd Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-3-linear-equations-in-two-variables/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 4th Chapter for Class 10:)\n\n");
+                printf("Chapter 4th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1R-eTlmO6i7ZLDQ0-k8MvdOegIKjmaWxI/view?usp=sharing\n");
+                printf("Chapter 4th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=16mQxxQ9bTBYPgBSsJyMY9hzLTmOM-pnA\n");
+                printf("Solution for chapter 4th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-4-quadratic-equations/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 5th Chapter for Class 10:)\n\n");
+                printf("Chapter 5th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1bZtHhy4zxfeqMEtMg1iBnpAR8h-vYBET/view?usp=sharing\n");
+                printf("Chapter 5th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1xM_N8z3xdqMdo-OeziTzwxKd3G1xALll\n");
+                printf("Solution for chapter 5th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-5-arithmetic-progressions/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 6th Chapter for Class 10:)\n\n");
+                printf("Chapter 6th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/17eQkLvkhOJuY-RirmR1ajRG5tLgeRIuH/view?usp=sharing\n");
+                printf("Chapter 6th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1vQlYqwxA4rt_p7ZHJQjRSvbg_MBvPIjh\n");
+                printf("Solution for chapter 6th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-6-triangles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 7th Chapter for Class 10:)\n\n");
+                printf("Chapter 7th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1ALPlB69hJIzAPfd1ISIu83pqHS_CL_5T/view?usp=sharing\n");
+                printf("Chapter 7th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1gUCsqgqZORumxuP4yKj3AeH1focMeLe6\n");
+                printf("Solution for chapter 7th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-7-coordinate-geometry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 8th Chapter for Class 10:)\n\n");
+                printf("Chapter 8th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1BxsDI6FdtTqrGnWdnM1oionnSHgvdoMs/view?usp=sharing\n");
+                printf("Chapter 8th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1Y4em9cpueAQuFv1iPJrA87K1gER6Sc5a\n");
+                printf("Solution for chapter 8th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-8-introduction-to-trigonometry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 9th Chapter for Class 10:)\n\n");
+                printf("Chapter 9th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1bqmtSgb3ivh_EXcZbvA9KXutCbLlYS3p/view?usp=sharing\n");
+                printf("Solution for chapter 9th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-9-some-applications-of-trigonometry/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 10th Chapter for Class 10:)\n\n");
+                printf("Chapter 10th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1S_kuqmdz23xB1GXTJy5inWcWMAtkASfx/view?usp=sharing\n");
+                printf("Chapter 10th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1fLfNOEvS9o7ATI0KJW3lkD1jKgwuGqc2\n");
+                printf("Solution for chapter 10th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-10-circles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 11th Chapter for Class 10:)\n\n");
+                printf("Chapter 11th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1eLfKHE7E-9v5YT5AuMZMs12XygvOIfzX/view?usp=sharing\n");
+                printf("Solution for chapter 11th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-11-constructions/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 12th Chapter for Class 10:)\n\n");
+                printf("Chapter 12th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1f_kUQg3FCcA2I8Wj39c9ZDKUCCowcoW-/view?usp=sharing\n");
+                printf("Chapter 12th Maths Formula for class 10\n");
+                printf("https://www.learncbse.in/areas-related-to-circles-notes-cbse-class-10-maths/\n");
+                printf("Solution for chapter 12th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-12-areas-related-to-circles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 13th Chapter for Class 10:)\n\n");
+                printf("Chapter 13th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1Oe_fS1uBpzxd7rtTSrNOTQxD0ik1OndK/view?usp=sharing\n");
+                printf("Chapter 13th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=1jX05D-aDj66lqkvj8tnIUmf-1MmN_fJa\n");
+                printf("Solution for chapter 13th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-13-surface-areas-and-volumes/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 14th Chapter for Class 10:)\n\n");
+                printf("Chapter 14th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1Zh95piVPQxZRL1Iso-EZ5GTg3q8fblKY/view?usp=sharing\n");
+                printf("Chapter 14th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=14RYGP0OBZs5Mz6e6Z9cswvkTr8-gAKM1\n");
+                printf("Solution for chapter 14th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-14-statistics/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 15th Chapter for Class 10:)\n\n");
+                printf("Chapter 15th Maths PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1JIwlq0LugOwBT-5cX7-ye-k4NfeGDuj5/view?usp=sharing\n");
+                printf("Chapter 15th Maths Formula for class 10\n");
+                printf("https://drive.google.com/open?id=12NeUpQHI3bZJVPSmOAPteaDm8jJJFkwq\n");
+                printf("Solution for chapter 15th Maths Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-maths/chapter-15-probability/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 15 Chapters in Class 10 Maths:)\n");
+            }
+        }
