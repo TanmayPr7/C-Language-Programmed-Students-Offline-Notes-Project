@@ -2656,3 +2656,138 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 15 Chapters in Class 10 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 1st Chapter for Class 10:)\n\n");
+                printf("Chapter 1st Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1fzwMhgLSbpvgfhWy4Dd6HUg47N57J6YV/view?usp=sharing\n");
+                printf("Solution for chapter 1st Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-1-chemical-reactions-and-equation/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 2nd Chapter for Class 10:)\n\n");
+                printf("Chapter 2nd Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/13S5u0tPUR4XsmbbDEGgWQRc3ajV-6ekG/view?usp=sharing\n");
+                printf("Solution for chapter 2nd Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-2-acid-bases-and-salts/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 3rd Chapter for Class 10:)\n\n");
+                printf("Chapter 3rd Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1mExnEQ33yzk2vMoTXrqE1G6gL5UTH0kU/view?usp=sharing\n");
+                printf("Solution for chapter 3rd Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-3-metals-and-non-metals/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 4th Chapter for Class 10:)\n\n");
+                printf("Chapter 4th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1CS-B0i1CJebJ35dR_DYOSwgXh8nfAwl4/view?usp=sharing\n");
+                printf("Solution for chapter 4th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-4-carbon-and-its-compounds/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 5th Chapter for Class 10:)\n\n");
+                printf("Chapter 5th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1xtlpR6-dM1puhhVfPkfWU3DK0skyZ7vb/view?usp=sharing\n");
+                printf("Solution for chapter 5th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-5-periodic-classification-of-elements/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 6th Chapter for Class 10:)\n\n");
+                printf("Chapter 6th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1kJBp0W0JxXakL5ey_KE803wzjYKGMz3L/view?usp=sharing\n");
+                printf("Solution for chapter 6th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-6-life-process/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 7th Chapter for Class 10:)\n\n");
+                printf("Chapter 7th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1hkWMmj0TbDoKdHXqBXe7IIpYu55infXU/view?usp=sharing\n");
+                printf("Solution for chapter 7th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-7-control-and-coordination/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 8th Chapter for Class 10:)\n\n");
+                printf("Chapter 8th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1VArSGVUVXuRD0H-WayMyWIybaeyJ9X-O/view?usp=sharing\n");
+                printf("Solution for chapter 8th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-8-how-do-organisms-reproduce/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 9th Chapter for Class 10:)\n\n");
+                printf("Chapter 9th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1VArSGVUVXuRD0H-WayMyWIybaeyJ9X-O/view?usp=sharing\n");
+                printf("Solution for chapter 9th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-9-heredity-and-evolution/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 10th Chapter for Class 10:)\n\n");
+                printf("Chapter 10th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1cf-8xOWjvhAk_GbduxaY5oUVT2j_LfIL/view?usp=sharing\n");
+                printf("Solution for chapter 10th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-10-light-reflection-and-refraction/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 11th Chapter for Class 10:)\n\n");
+                printf("Chapter 11th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1A4r8ckDTOLQxsLksfbRRX3C8PnEhyPC3/view?usp=sharing\n");
+                printf("Solution for chapter 11th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-11-human-eye-and-colorful-world/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 12th Chapter for Class 10:)\n\n");
+                printf("Chapter 12th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1mR1Qq6HGW4ZT1F2E_pv6-btHu8HZb0CV/view?usp=sharing\n");
+                printf("Solution for chapter 12th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-12-electricity/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 13th Chapter for Class 10:)\n\n");
+                printf("Chapter 13th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1AYY65aNXv4jd18ClsV5TXbNYyRkIxPCo/view?usp=sharing\n");
+                printf("Solution for chapter 13th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-13-magnetic-effects-electric-current/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 14th Chapter for Class 10:)\n\n");
+                printf("Chapter 14th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/16ZvDhU5RAUuC3woGErqX6AYBzYDHS2xc/view?usp=sharing\n");
+                printf("Solution for chapter 14th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-14-sources-of-energy/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 15th Chapter for Class 10:)\n\n");
+                printf("Chapter 15th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/1oTIuti2K-sVza_L8s1B2ePR1YplIfowu/view?usp=sharing\n");
+                printf("Solution for chapter 15th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-15-our-environment/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of Science 16th Chapter for Class 10:)\n\n");
+                printf("Chapter 16th Science PDF for class 10\n");
+                printf("https://drive.google.com/file/d/18Fw38sLcH6hJVfN3G8XihCx0-F-Kh37K/view?usp=sharing\n");
+                printf("Solution for chapter 16th Science Class 10\n");
+                printf("https://byjus.com/ncert-solutions-class-10-science-chapter-16-sustainable-management-of-natural-resources/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 16 Chapters in Class 10 Science:)\n");
+            }
+        }
