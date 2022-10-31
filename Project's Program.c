@@ -3052,3 +3052,127 @@ int content(){
             }
         }
     }
+    if(class==4){
+        printf("Press 1 To Get the Notes And Solutions of Maths for Class 4:)\n");
+        printf("Press 2 To Get the Notes And Solutions of EVS for Class 4:)->");
+        scanf("%d",&sub);
+        printf("\n");
+        if(sub==1){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 1st Chapter for Class 4:)\n\n");
+                printf("Chapter 1st Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=10LBLqfnfUF2D60KJSXXfU1nRIP2xd0gA\n");
+                printf("Solution for chapter 1st Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-1-building-with-bricks/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 2nd Chapter for Class 4:)\n\n");
+                printf("Chapter 2nd Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1BkRqycMa5nZZNw3rfDtoSxXY8hZEgv0s\n");
+                printf("Solution for chapter 2nd Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-2-long-and-short/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 3rd Chapter for Class 4:)\n\n");
+                printf("Chapter 3rd Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1IbgivD5gZqMp8G522VFtHxnQlhNVbu6f\n");
+                printf("Solution for chapter 3rd Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-3-a-trip-to-bhopal/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 4th Chapter for Class 4:)\n\n");
+                printf("Chapter 4th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1Z9xJoFI77cBHYf6ozXW-y4l_c8lg1V5F\n");
+                printf("Solution for chapter 4th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-4-tick-tick-tick/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 5th Chapter for Class 4:)\n\n");
+                printf("Chapter 5th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1fGW2aRFx78LgNq0EXS8Z7Yih3zpOoqIP\n");
+                printf("Solution for chapter 5th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-5-the-way-the-world-looks/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 6th Chapter for Class 4:)\n\n");
+                printf("Chapter 6th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1nlCf9_opsl671gSRInUhreau2pGNcZuT\n");
+                printf("Solution for chapter 6th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-6-the-junk-seller/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 7th Chapter for Class 4:)\n\n");
+                printf("Chapter 7th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1D3Z24sHJeC5xdOF9NLRX9oQ6ml4o2Srz\n");
+                printf("Solution for chapter 7th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-7-jugs-and-mugs/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 8th Chapter for Class 4:)\n\n");
+                printf("Chapter 8th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1eL3_nDqsZOdRQWhnt3OmdS7hhiv3MFqm\n");
+                printf("Solution for chapter 8th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-8-carts-and-wheels/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 9th Chapter for Class 4:)\n\n");
+                printf("Chapter 9th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=16ASN9SCHLoj-wUnrVXE7ekht7HU2FrzM\n");
+                printf("Solution for chapter 9th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-9-halves-and-quarters/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 10th Chapter for Class 4:)\n\n");
+                printf("Chapter 10th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=10cMtw7b9AYdGSUaDeh_IdIi2se5K17Lz\n");
+                printf("Solution for chapter 10th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-10-play-with-patterns/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 11th Chapter for Class 4:)\n\n");
+                printf("Chapter 11th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1OQ9scd67JyUX8padE0wwX-jRZOhb_LNa\n");
+                printf("Solution for chapter 11th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-11-tables-and-shares/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 12th Chapter for Class 4:)\n\n");
+                printf("Chapter 12th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1IgUeqKikfndgPOEk9BP6i8DgVyRKM-Yn\n");
+                printf("Solution for chapter 12th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-12-how-heavy-how-light/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 13th Chapter for Class 4:)\n\n");
+                printf("Chapter 13th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1XxVnYdlOT5-7odBBzueoTmCo7t2e6m9L\n");
+                printf("Solution for chapter 13th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-13-fields-and-fences/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of Maths 14th Chapter for Class 4:)\n\n");
+                printf("Chapter 14th Maths PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1kJ3Ep4djyaG4yyEM7m6sz61WmozMhHy7\n");
+                printf("Solution for chapter 14th Maths Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-maths-chapter-14-smart-charts/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 14 Chapter in Class 4 Maths:)\n");
+            }
+        }
