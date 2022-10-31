@@ -3176,3 +3176,227 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 14 Chapter in Class 4 Maths:)\n");
             }
         }
+        if(sub==2){
+            printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+            scanf("%d",&chap);
+            if(chap==1){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 1st Chapter for Class 4:)\n\n");
+                printf("Chapter 1st EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1V8gOpZtDCK7R667ivPwWKQJpw9GjcJV3\n");
+                printf("Solution for chapter 1st EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-1-going-to-school/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==2){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 2nd Chapter for Class 4:)\n\n");
+                printf("Chapter 2nd EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1EXuzKVUYaJ3s9j5lnDMqQdj4-JsGZkpF\n");
+                printf("Solution for chapter 2nd EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-2-ear-to-ear/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==3){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 3rd Chapter for Class 4:)\n\n");
+                printf("Chapter 3rd EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1uK0f3-1opc4WxwdubXyzex33FisQfdPw\n");
+                printf("Solution for chapter 3rd EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-3-a-day-with-nandu/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==4){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 4th Chapter for Class 4:)\n\n");
+                printf("Chapter 4th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1JYnOnYQDm90uLoJhfqsU80SMrVwbH-Jp\n");
+                printf("Solution for chapter 4th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-4-the-story-of-amrita/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==5){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 5th Chapter for Class 4:)\n\n");
+                printf("Chapter 5th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1x8whC2k2HUeAoOoRRkjtKW7WvJ34h4Qu\n");
+                printf("Solution for chapter 5th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-5-anita-and-the-honeybees/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==6){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 6th Chapter for Class 4:)\n\n");
+                printf("Chapter 6th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1ttjCZCEl6nvIssjAFXHtzXAq8DFbIt-x\n");
+                printf("Solution for chapter 6th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-6-omanas-journey/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==7){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 7th Chapter for Class 4:)\n\n");
+                printf("Chapter 7th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=16xCD0DmdRid_roU0AtGgzskH0BCbXUaC\n");
+                printf("Solution for chapter 7th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-7-from-the-window/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==8){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 8th Chapter for Class 4:)\n\n");
+                printf("Chapter 8th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1dtb5QVzTinCCla-7npLQqxDfj9qq9UK4\n");
+                printf("Solution for chapter 8th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-8-reaching-grandmothers-house/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==9){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 9th Chapter for Class 4:)\n\n");
+                printf("Chapter 9th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=12Nr7z7Kob9ncFTKO-DQPQBwUszAznLKI\n");
+                printf("Solution for chapter 9th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-9-changing-families/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==10){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 10th Chapter for Class 4:)\n\n");
+                printf("Chapter 10th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1uySs67LGCh2fB9noMfj-LMaG4Jo-RfiI\n");
+                printf("Solution for chapter 10th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-10-hu-tu-tu-hu-tu-tu/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==11){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 11th Chapter for Class 4:)\n\n");
+                printf("Chapter 11th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=11MMt7QMFMWmRN9wVsTbtoKxyFS7AAt46\n");
+                printf("Solution for chapter 11th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-11-the-valley-of-flowers/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==12){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 12th Chapter for Class 4:)\n\n");
+                printf("Chapter 12th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1rFbqSnKCrxyql5JJjWAk4CPhebl6T6bq\n");
+                printf("Solution for chapter 12th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-12-changing-times/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==13){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 13th Chapter for Class 4:)\n\n");
+                printf("Chapter 13th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1KI_XuAQ6J32x3R3awvn0IMAxpoMDougn\n");
+                printf("Solution for chapter 13th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-13-a-rivers-tale/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==14){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 14th Chapter for Class 4:)\n\n");
+                printf("Chapter 14th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1kucPzmomd2FfYJfBapTOfua6OcnXa_tA\n");
+                printf("Solution for chapter 14th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-14-basvas-farm/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==15){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 15th Chapter for Class 4:)\n\n");
+                printf("Chapter 15th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1qX0Li27f7zxmP6ZIvpYLgGcnPYWjiqQn\n");
+                printf("Solution for chapter 15th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-15-from-market-to-home/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==16){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 16th Chapter for Class 4:)\n\n");
+                printf("Chapter 16th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1861HJFtgVFJTkbPcrAjygTy-uVYEwWd3\n");
+                printf("Solution for chapter 16th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-16-a-busy-month/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==17){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 17th Chapter for Class 4:)\n\n");
+                printf("Chapter 17th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1XsJ85Q8EpV9MOIfo8NFYZ4UTM8uUY-6W\n");
+                printf("Solution for chapter 17th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-17-nandita-in-mumbai/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==18){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 18th Chapter for Class 4:)\n\n");
+                printf("Chapter 18th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1kg7tAWPLjuNC0_6Kw24v5lJ-zoelSCW7\n");
+                printf("Solution for chapter 18th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-18-too-much-water-too-little-water/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==19){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 19th Chapter for Class 4:)\n\n");
+                printf("Chapter 19th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1z9cS85Yr59SE85V6czyuKdlOpPhVvgLA\n");
+                printf("Solution for chapter 19th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-19-abdul-in-the-garden/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==20){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 20th Chapter for Class 4:)\n\n");
+                printf("Chapter 20th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1rlJNXw6B8mhSz1K3tYu5WSEncTXpM13k\n");
+                printf("Solution for chapter 20th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-20-eating-together/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==21){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 21th Chapter for Class 4:)\n\n");
+                printf("Chapter 21th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1sCTLXYuY_eSTvOYApqJxLJhx-zH8QQVQ\n");
+                printf("Solution for chapter 21th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-21-food-and-fun/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==22){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 22th Chapter for Class 4:)\n\n");
+                printf("Chapter 22th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1knhvPaKjHEG0EddBH-TUtlhLF_W23A1C\n");
+                printf("Solution for chapter 22th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-22-the-world-in-my-home/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==23){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 23th Chapter for Class 4:)\n\n");
+                printf("Chapter 23th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1W2dZk8MSphlpmeRYXoVG-b8wW__azNQ4\n");
+                printf("Solution for chapter 23th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-23-pochampalli/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==24){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 24th Chapter for Class 4:)\n\n");
+                printf("Chapter 24th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=18w-pxG7yhVLsBshibBQpVVPQUtZ-BFuT\n");
+                printf("Solution for chapter 24th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-24-home-and-abroad/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==25){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 25th Chapter for Class 4:)\n\n");
+                printf("Chapter 25th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1uAypKqkLdgURd_i7NfO82B47u3P-Dugr\n");
+                printf("Solution for chapter 25th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-25-spicy-riddles/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==26){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 26th Chapter for Class 4:)\n\n");
+                printf("Chapter 26th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1rVKbaOhEIDqJ2A1L8o6nuJ-1iQ64P0rA\n");
+                printf("Solution for chapter 26th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-26-defence-officer-wahida/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else if(chap==27){
+                printf("Here I Have Some Best NCERT Notes And Solution of EVS 27th Chapter for Class 4:)\n\n");
+                printf("Chapter 27th EVS PDF for class 4\n");
+                printf("https://drive.google.com/open?id=1gBVmbGvcsXr0lAVsR7SukLwMjlPOOmF_\n");
+                printf("Solution for chapter 27th EVS Class 4\n");
+                printf("https://byjus.com/ncert-solutions/ncert-solutions-class-4-evs-chapter-27-chuskit-goes-to-school/\n\n");
+                printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+            }
+            else{
+                printf("Please enter the correct Chapter number there are only 27 Chapters in Class 4 EVS:)\n");
+            }
+        }
+    }
