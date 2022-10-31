@@ -2791,3 +2791,264 @@ int content(){
                 printf("Please enter the correct Chapter number there are only 16 Chapters in Class 10 Science:)\n");
             }
         }
+        if(sub==3){
+            printf("Press 1 To Get the Notes And Solutions of History for Class 9:)\n");
+            printf("Press 2 To Get the Notes And Solutions of Civics for Class 9:)\n");
+            printf("Press 3 To Get the Notes And Solutions of Geography for Class 9:)\n");
+            printf("Press 4 To Get the Notes And Solutions of Economics for Class 9:)->");
+            scanf("%d",&ssub);
+            printf("\n");
+            if(ssub==1){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 1st Chapter for Class 10:)\n\n");
+                    printf("Chapter 1st History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1POoNNnDbCG1M99rYHKE3Wdmp9yviHsoj\n");
+                    printf("Solution for chapter 1st History Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-history-chapter-1-rise-of-nationalism-in-europe/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 2nd Chapter for Class 10:)\n\n");
+                    printf("Chapter 2nd History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1XCBzhtmtkT53MNYGWA7zYg2KwNEDtML1\n");
+                    printf("Solution for chapter 2nd History Class 10\n");
+                    printf("https://www.learncbse.in/ncert-solutions-cbse-class-10-history-the-nationalist-movement-in-indo-china/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 3rd Chapter for Class 10:)\n\n");
+                    printf("Chapter 3rd History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1zQ-hUmHLISkfx3lqQI58nvekxWpQqGAq\n");
+                    printf("Solution for chapter 3rd History Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-history-chapter-2-nationalism-in-india/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 4th Chapter for Class 10:)\n\n");
+                    printf("Chapter 4th History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1QAhpXX6wT6vpH8TT3wwBhD5IAz37V-_c\n");
+                    printf("Solution for chapter 4th History Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-history-chapter-3-the-making-of-a-global-world/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 5th Chapter for Class 10:)\n\n");
+                    printf("Chapter 5th History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1COL5VJD22jp29KgGOqInYuHZ4DRE3NzL\n");
+                    printf("Solution for chapter 5th History Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-history-chapter-4-the-age-of-industrilisation/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 6th Chapter for Class 10:)\n\n");
+                    printf("Chapter 6th History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1ok9OhRIgGN1tm65qaRrmRw3O41mm4Eeo\n");
+                    printf("Solution for chapter 6th History Class 10\n");
+                    printf("https://www.learncbse.in/ncert-solutions-cbse-class-10-history-work-life-and-leisure/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 7th Chapter for Class 10:)\n\n");
+                    printf("Chapter 7th History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1TiCQg8M2ikXhJd2V7w6IyY9j818KkqR8\n");
+                    printf("Solution for chapter 7th History Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-history-chapter-5-print-culture-and-the-modern-world/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of History 8th Chapter for Class 10:)\n\n");
+                    printf("Chapter 8th History PDF for class 10\n");
+                    printf("https://drive.google.com/open?id=1ytn4hUkt_QDIzbAMcwIHEvntdMKC69NU\n");
+                    printf("Solution for chapter 8th History Class 10\n");
+                    printf("https://www.learncbse.in/ncert-solutions-cbse-class-10-history-novels-society-and-history/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 8 Chapters in Class 10 History:)\n");
+                }
+            }
+            if(ssub==2){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 1st Chapter for Class 10:)\n\n");
+                    printf("Chapter 1st Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess401.pdf\n");
+                    printf("Solution for chapter 1st Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-1-power-sharing/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 2nd Chapter for Class 10:)\n\n");
+                    printf("Chapter 2nd Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess402.pdf\n");
+                    printf("Solution for chapter 2nd Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-2-federalism/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 3rd Chapter for Class 10:)\n\n");
+                    printf("Chapter 3rd Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess403.pdf\n");
+                    printf("Solution for chapter 3rd Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-3-democracy-and-diversity/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 4th Chapter for Class 10:)\n\n");
+                    printf("Chapter 4th Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess404.pdf\n");
+                    printf("Solution for chapter 4th Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-4-gender-religion-and-caste/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 5th Chapter for Class 10:)\n\n");
+                    printf("Chapter 5th Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess405.pdf\n");
+                    printf("Solution for chapter 5th Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-5-popular-struggles-and-movements/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 6th Chapter for Class 10:)\n\n");
+                    printf("Chapter 6th Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess406.pdf\n");
+                    printf("Solution for chapter 6th Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-6-political-parties/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 7th Chapter for Class 10:)\n\n");
+                    printf("Chapter 7th Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess407.pdf\n");
+                    printf("Solution for chapter 7th Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-7-outcomes-of-democracy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==8){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Civics 8th Chapter for Class 10:)\n\n");
+                    printf("Chapter 8th Civics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess408.pdf\n");
+                    printf("Solution for chapter 8th Civics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-political-science-chapter-8-challenges-to-democracy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 8 Chapters in Class 10 Civics:)\n");
+                }
+            }
+            if(ssub==3){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 1st Chapter for Class 10:)\n\n");
+                    printf("Chapter 1st Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/1qiitDRM_X36K0yKF60-LeQP4Jj_K2pM5/view?usp=sharing\n");
+                    printf("Solution for chapter 1st Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-1-resources-and-development/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 2nd Chapter for Class 10:)\n\n");
+                    printf("Chapter 2nd Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/13vrnE3lqLjJUAHZfVmuIq96lN2VEBDRH/view?usp=sharing\n");
+                    printf("Solution for chapter 2nd Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-2-forest-and-wildlife-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 3rd Chapter for Class 10:)\n\n");
+                    printf("Chapter 3rd Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/1Gyu3RFVdOlRpL54oZX8np7rt5vyyHfB6/view?usp=sharing\n");
+                    printf("Solution for chapter 3rd Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-3-water-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 4th Chapter for Class 10:)\n\n");
+                    printf("Chapter 4th Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/13gRJmxLGl3NQaaFl5RvtkJECk7q_6-in/view?usp=sharing\n");
+                    printf("Solution for chapter 4th Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-4-agriculture/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 5th Chapter for Class 10:)\n\n");
+                    printf("Chapter 5th Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/1IIwO8giDUfHJS5l_T4s0_leZ75F7XmDc/view?usp=sharing\n");
+                    printf("Solution for chapter 5th Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-5-minerals-and-energy-resources/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==6){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 6th Chapter for Class 10:)\n\n");
+                    printf("Chapter 6th Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/1bc4sKVvpgCkQqUaKiObW26zVN519ujFl/view?usp=sharing\n");
+                    printf("Solution for chapter 6th Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-6-manufacturing-industries/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==7){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Geography 7th Chapter for Class 10:)\n\n");
+                    printf("Chapter 7th Geography PDF for class 10\n");
+                    printf("https://drive.google.com/file/d/1lz56uYUsKKodkHxNPI52aUrnCeYYAGkt/view?usp=sharing\n");
+                    printf("Solution for chapter 7th Geography Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-geography-chapter-7-lifelines-of-national-economy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 7 Chapters in Class 10 Geography:)\n");
+                }
+            }
+            if(ssub==4){
+                printf("Enter the Chapter Number You Want The Notes And Solution of:)");
+                scanf("%d",&chap);
+                if(chap==1){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 1st Chapter for Class 10:)\n\n");
+                    printf("Chapter 1st Economics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess201.pdf\n");
+                    printf("Solution for chapter 1st Economics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-economics-chapter-1-development/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==2){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 2nd Chapter for Class 10:)\n\n");
+                    printf("Chapter 2nd Economics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess202.pdf\n");
+                    printf("Solution for chapter 2nd Economics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-economics-chapter-2-sectors-of-the-economy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==3){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 3rd Chapter for Class 10:)\n\n");
+                    printf("Chapter 3rd Economics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess203.pdf\n");
+                    printf("Solution for chapter 3rd Economics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-economics-chapter-3-money-and-credit/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==4){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 4th Chapter for Class 10:)\n\n");
+                    printf("Chapter 4th Economics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess204.pdf\n");
+                    printf("Solution for chapter 4th Economics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-economics-chapter-4-globalisation-and-the-indian-economy/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else if(chap==5){
+                    printf("Here I Have Some Best NCERT Notes And Solution of Economics 5th Chapter for Class 10:)\n\n");
+                    printf("Chapter 5th Economics PDF for class 10\n");
+                    printf("https://ncertbooks.solutions/wp-content/uploads/2020/01/jess201.pdf\n");
+                    printf("Solution for chapter 5th Economics Class 10\n");
+                    printf("https://byjus.com/ncert-solutions-class-10-social-science-economics-chapter-5-consumer-rights/\n\n");
+                    printf("                 Note: Select the Link and open in any browser to access the Notes And Solution:)\n");
+                }
+                else{
+                    printf("Please enter the correct Chapter number there are only 5 Chapters in Class 10 Economics:)\n");
+                }
+            }
+        }
+    }
