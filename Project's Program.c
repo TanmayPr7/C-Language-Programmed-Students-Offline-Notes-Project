@@ -3400,3 +3400,123 @@ int content(){
             }
         }
     }
+    printf("                                                    Press 5 For Settings:)\n");
+    printf("                                                              OR\n");
+    printf("                                                       Press 0 to Exit:)\n");
+    scanf("%d",&s);
+    if(s==5){
+        int z;
+        printf("Press 1 to View your Profile:)\n");
+        printf("Press 2 to Logout:)\n");
+        printf("Press 3 to Contact Us:)\n");
+        scanf("%d",&z);
+        if(z==1){
+            FILE *ptr;
+            ptr=fopen("user.txt","r");
+            char st[25];
+            char st1[15];
+            char st2[30];
+            fgets(st, 25, ptr);
+            fgets(st1, 15, ptr);
+            fgets(st2, 30, ptr);
+            
+            printf("                                                         %s",st);
+            printf("                                                      %s",st1);
+            printf("                                                 %s\n",st2);
+            printf("\n");
+            printf("                                                  Press 5 For Settings:)\n");
+            printf("                                                            OR\n");
+            printf("                                                     Press 0 to Exit:)\n");
+            scanf("%d",&s);
+            if(s==5){
+                int z;
+                printf("Press 1 to View your Profile:)\n");
+                printf("Press 2 to Logout:)\n");
+                printf("Press 3 to Contact Us:)\n");
+                scanf("%d",&z);
+                if(z==1){
+                    FILE *ptr;
+                    ptr=fopen("user.txt","r");
+                    char st[25];
+                    char st1[15];
+                    char st2[30];
+                    fgets(st, 25, ptr);
+                    fgets(st1, 15, ptr);
+                    fgets(st2, 30, ptr);
+            
+                    printf("                                                         %s",st);
+                    printf("                                                      %s",st1);
+                    printf("                                                 %s\n",st2);
+                }
+                else if(z==2){
+                    int l;
+                    printf("                                                       Press 1 for Login:)\n");
+                    printf("                                                    Press 2 for Skip for Now:)\n");
+                    scanf("%d",&l);
+                    if(l==1){
+                        char n[25];
+                        char p[15];
+                        FILE *ptr;
+                        ptr=fopen("user.txt","r");
+                        fgets(n, 25, ptr);
+                        fgets(p, 15, ptr);
+                        char name[25];
+                        char pass[15];
+                        printf("Enter your name:)\n");
+                        scanf("%s",&name[0]);
+                        printf("Enter correct password:)\n");
+                        scanf("%s",&pass[0]);
+                        if(strcmp(name,n)==-1 && strcmp(pass,p)==-1){
+                            content();
+                        }
+                        else{
+                            printf("Error\n");
+                            printf("Please first Sign Up or Register in our App Sir:)\n");
+                            printf("OR Please enter the correct User name and Password Sir Thanks:)\n");
+                        }
+                    }
+                    else if(l==2){
+                        content();
+                    }
+                }
+                else if(z==3){
+                    cb();
+                }
+            }
+        }
+        else if(z==2){
+            int l;
+            printf("                                                       Press 1 for Login:)\n");
+            printf("                                                    Press 2 for Skip for Now:)\n");
+            scanf("%d",&l);
+            if(l==1){
+                char n[25];
+                char p[15];
+                FILE *ptr;
+                ptr=fopen("user.txt","r");
+                fgets(n, 25, ptr);
+                fgets(p, 15, ptr);
+                char name[25];
+                char pass[15];
+                printf("Enter your name:)\n");
+                scanf("%s",&name[0]);
+                printf("Enter correct password:)\n");
+                scanf("%s",&pass[0]);
+                if(strcmp(name,n)==-1 && strcmp(pass,p)==-1){
+                    content();
+                }
+                else{
+                    printf("Error\n");
+                    printf("Please first Sign Up or Register in our App Sir:)\n");
+                    printf("OR Please enter the correct User name and Password Sir Thanks:)\n");
+                }
+            }
+            else if(l==2){
+                content();
+            }
+        }
+        else if(z==3){
+            cb();
+        }
+    }
+}
