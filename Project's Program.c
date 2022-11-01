@@ -3520,3 +3520,69 @@ int content(){
         }
     }
 }
+typedef struct user{
+    char name[25];
+    char email[50];
+    char pass[15];
+}user;
+
+int main(){
+    user u1;
+    int n;
+    FILE *ptr1;
+    ptr1=fopen("f.txt","r");
+    if(ptr1==NULL){
+        first();
+        scanf("%d",&n);
+        FILE *ptr;
+        ptr=fopen("user.txt","a");
+        if(n==1){
+            printf("Enter Your User Name:)");
+            scanf("%s",u1.name);
+            printf("Enter Your Password:)");
+            scanf("%s",u1.pass);
+            printf("Enter Your E mail Id:)");
+            scanf("%s",u1.email);
+        
+            fprintf(ptr,"%s\n",u1.name);
+            fprintf(ptr,"%s\n",u1.pass);
+            fprintf(ptr,"%s\n",u1.email);
+            content();
+            FILE *ptr1;
+            ptr1=fopen("f.txt","w");
+            fprintf(ptr1,"First\n");
+            fclose(ptr);
+            fclose(ptr1);
+        }
+        if(n==2){
+            char n[25];
+            char p[15];
+            FILE *ptr;
+            ptr=fopen("user.txt","r");
+            fgets(n, 25, ptr);
+            fgets(p, 15, ptr);
+            char name[25];
+            char pass[15];
+            printf("Enter your name:)\n");
+            scanf("%s",&name[0]);
+            printf("Enter correct password:)\n");
+            scanf("%s",&pass[0]);
+            if(strcmp(name,n)==-1 && strcmp(pass,p)==-1){
+                content();
+            }
+            else{
+                printf("Error\n");
+                printf("Please first Sign Up or Register in our App Sir:)\n");
+                printf("OR Please enter the correct User name and Password Sir Thanks:)\n");
+            }
+        }
+        if(n==0){
+            content();
+        }
+    }
+    else{
+        content();
+    }
+    return 0;
+}
+      
